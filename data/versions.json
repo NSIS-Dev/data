@@ -1,0 +1,1989 @@
+{
+  "$schema": "https://nsis-dev.github.io/data/versions.schema.json",
+  "generatedAt": "2026-04-30T21:10:21.173Z",
+  "source": "sourceforge.net/projects/nsis",
+  "versions": {
+    "2.08": {
+      "version": "2.08",
+      "major": 2,
+      "channel": "stable",
+      "preRelease": null,
+      "releasedAt": "2005-07-23",
+      "artifacts": {
+        "zip": {
+          "url": "https://downloads.sourceforge.net/project/nsis/NSIS%202/2.08/nsis-2.08.zip",
+          "filename": "nsis-2.08.zip",
+          "size": 1859677,
+          "hashes": {
+            "sha1": "e7e3c8d60197af220695c5c9bf242881e32790bb",
+            "sha256": "0b672007ca0c26bf8735af94d918a144778f3ff972ddcf1b4005cc53f57c6566",
+            "sha512": "762ce13672036168b5fa4f6ef3e94b65ea6a7f2b7d27c96cffed408ea2e049f8e43dc910c40453fefc1c4e961fa92f2d177a66743a6d3c40d2bb33fb2edd07e5"
+          }
+        },
+        "sourceTarball": {
+          "url": "https://downloads.sourceforge.net/project/nsis/NSIS%202/2.08/nsis-2.08-src.tar.bz2",
+          "filename": "nsis-2.08-src.tar.bz2",
+          "size": 1599034,
+          "hashes": {
+            "sha1": "d54319747aea578dcd2120b5a4167d7d364bec18",
+            "sha256": "7a9ce925df5a3b2bbcb85042e884d1e5268b10f39aa3e004ee87a1b03304dafe",
+            "sha512": "b5c91e5056f07a606ae0b9c358e9b145c0b91d16da37d873b717ce55be0890793af05cb8bc3b1a2b36ea42384baa489bbc1b6108cc368428c7e11784b96eeed8"
+          }
+        }
+      }
+    },
+    "2.09": {
+      "version": "2.09",
+      "major": 2,
+      "channel": "stable",
+      "preRelease": null,
+      "releasedAt": "2005-08-26",
+      "artifacts": {
+        "zip": {
+          "url": "https://downloads.sourceforge.net/project/nsis/NSIS%202/2.09/nsis-2.09.zip",
+          "filename": "nsis-2.09.zip",
+          "size": 1864808,
+          "hashes": {
+            "sha1": "9aca030a652efa2993575370ebc66766c04de95c",
+            "sha256": "2cc6c45c157e4f5cec241ffcfc41e7d1ce517780625e3766d6d7ed37eb23a7ca",
+            "sha512": "dabf841f27a42f2b5a8dcca1533c81fe725636db33742e4c868b4d5a081c251065c51ba67cefd08faa11f5456fcf09d8e2123e075051344c6eadcd6d3b79812e"
+          }
+        },
+        "sourceTarball": {
+          "url": "https://downloads.sourceforge.net/project/nsis/NSIS%202/2.09/nsis-2.09-src.tar.bz2",
+          "filename": "nsis-2.09-src.tar.bz2",
+          "size": 1600016,
+          "hashes": {
+            "sha1": "c6227e69c9f0a755c3545e4361bbda9b7345f869",
+            "sha256": "49a81c5ace05019a56ff9b75b27be08c806dd2c427c572a00b12742f7e03e252",
+            "sha512": "3bf0472947dd0675db91cdba81afebd5ccf2edd3b279156b456ce37725b10e79310739cca153ea9fa8fffb1c557b3db4fb397c6b7c66bc93a3cdd5c3c4404269"
+          }
+        }
+      }
+    },
+    "2.10": {
+      "version": "2.10",
+      "major": 2,
+      "channel": "stable",
+      "preRelease": null,
+      "releasedAt": "2005-10-04",
+      "artifacts": {
+        "zip": {
+          "url": "https://downloads.sourceforge.net/project/nsis/NSIS%202/2.10/nsis-2.10.zip",
+          "filename": "nsis-2.10.zip",
+          "size": 1897845,
+          "hashes": {
+            "sha1": "20c7f7cdafebee74e52803c7ad75ae009ea2b30c",
+            "sha256": "00350d3ef1b4308e40e701fc91cbb390128954f6a4af27c772e91c28e16bcb17",
+            "sha512": "4371c7cacd1efd74f3c0ef036a6112cd508ffaef2a365d3f1cfd506d9668621adec7cd4b8d4c3e226fc1f24de276660366a37ec8c5d887e9b641d906392937cf"
+          }
+        },
+        "sourceTarball": {
+          "url": "https://downloads.sourceforge.net/project/nsis/NSIS%202/2.10/nsis-2.10-src.tar.bz2",
+          "filename": "nsis-2.10-src.tar.bz2",
+          "size": 1549928,
+          "hashes": {
+            "sha1": "1a3c7f55fda402e382beaa52b36ae1e9bd20de1d",
+            "sha256": "f7fe442659f3460c4c6dd8414637258f10f0ddd3daa831f34bbcbcf256728904",
+            "sha512": "8717a3e38e718facc264bf654ef1f468199f5431510d9cb0c41ea374c53f9aed368011ab148ec8867a58053d58e540df7f8286a42dbb2ae3fcf689fe13b95aed"
+          }
+        }
+      }
+    },
+    "2.11": {
+      "version": "2.11",
+      "major": 2,
+      "channel": "stable",
+      "preRelease": null,
+      "releasedAt": "2005-11-12",
+      "artifacts": {
+        "zip": {
+          "url": "https://downloads.sourceforge.net/project/nsis/NSIS%202/2.11/nsis-2.11.zip",
+          "filename": "nsis-2.11.zip",
+          "size": 1944445,
+          "hashes": {
+            "sha1": "67114175c443c3b2b3181a83ca6ed5614ff81e05",
+            "sha256": "1e0b4e00a225ba0e6c640c94e21df845246c371d660bab2a6307d5d4d5038b55",
+            "sha512": "f27acf5774c682c206ce17e5129634f7cedc155bb4f0a7602a89af8dda19a7b6cbbeda744b876a684df9d18f36206b85c13195a7c8bfb2da7a73b88bd16d099c"
+          }
+        },
+        "sourceTarball": {
+          "url": "https://downloads.sourceforge.net/project/nsis/NSIS%202/2.11/nsis-2.11-src.tar.bz2",
+          "filename": "nsis-2.11-src.tar.bz2",
+          "size": 1556152,
+          "hashes": {
+            "sha1": "0e7d840078449343291cf599c1c516838d6c691e",
+            "sha256": "d45e59d1a990b1e06cded14afd48fe80e025d968c54ea70525a89d9601f2b500",
+            "sha512": "1663ab90e74852d842eef2d4ecdce4ec2488a902fbfeb7d555fab00d3425838498dc34e3108db69fb44a0ef224e2fc22b7f11aeee867f152818dbe9f4220aebb"
+          }
+        }
+      }
+    },
+    "2.12": {
+      "version": "2.12",
+      "major": 2,
+      "channel": "stable",
+      "preRelease": null,
+      "releasedAt": "2005-12-17",
+      "artifacts": {
+        "zip": {
+          "url": "https://downloads.sourceforge.net/project/nsis/NSIS%202/2.12/nsis-2.12.zip",
+          "filename": "nsis-2.12.zip",
+          "size": 1953720,
+          "hashes": {
+            "sha1": "88de1b3ea6559209f9bf6f76e0e5708978c0ae0e",
+            "sha256": "1ea4c49b34ca550ca356938d22757920aa000773c60b5574e4db149e575d2a90",
+            "sha512": "0adf8c9d59605550e3d532689626f2e7e429847d7c998a7cc599f2a615bc371ae6778a74a2cc98c0dd43e8c6bebd0be8ccf7839a80a99d22a85c32b18f2747d5"
+          }
+        },
+        "sourceTarball": {
+          "url": "https://downloads.sourceforge.net/project/nsis/NSIS%202/2.12/nsis-2.12-src.tar.bz2",
+          "filename": "nsis-2.12-src.tar.bz2",
+          "size": 1564803,
+          "hashes": {
+            "sha1": "a458bdcbda37ecf29f0ddd8c10d36c1ed4acd763",
+            "sha256": "906a5fea9f548c89ab46c39ae4c0dc9dc5bdcd9a0bc7ee9c87dae51d8eb62610",
+            "sha512": "3ec8e61b6d61679c5ee05c0e94f8fba3134f27c56def507ac2ba5d88cb739ad89ce26fe87d29872cbe8d27ecf955211514ce61ecf4e0c0772264375032010698"
+          }
+        }
+      }
+    },
+    "2.13": {
+      "version": "2.13",
+      "major": 2,
+      "channel": "stable",
+      "preRelease": null,
+      "releasedAt": "2006-01-21",
+      "artifacts": {
+        "zip": {
+          "url": "https://downloads.sourceforge.net/project/nsis/NSIS%202/2.13/nsis-2.13.zip",
+          "filename": "nsis-2.13.zip",
+          "size": 1957790,
+          "hashes": {
+            "sha1": "237e33a544ddccf7fc522b9274f8fa3d9fb7c7bc",
+            "sha256": "6ee9263711aed52259204ebc46ff7a9e4b97cbfe7ddab14b09a26d2467492bb5",
+            "sha512": "e5603a6b68e7bf5cc798f7994397fddf0f0d5c9faea643be0b7a75a9a90eb6779c1ee28a384b1f4f3767ac87e51e083143e58e5836863775831c48fdc7b3e41e"
+          }
+        },
+        "sourceTarball": {
+          "url": "https://downloads.sourceforge.net/project/nsis/NSIS%202/2.13/nsis-2.13-src.tar.bz2",
+          "filename": "nsis-2.13-src.tar.bz2",
+          "size": 1569224,
+          "hashes": {
+            "sha1": "ededc533a1931d6cc129f49e6b5bc13b1b662f6d",
+            "sha256": "a34d58c3a290b76448bac63bed7820f6f2aac80eaf0077eea3008e0f65ac79aa",
+            "sha512": "b179bb9a24ed8cf750aa81bc33b5620447a5e6b7eadf429c871f35a0cddface93239bdc38ca1936abd030d0e2f0adad9ea5a4d3570ce2544c41dbd1afeed9640"
+          }
+        }
+      }
+    },
+    "2.14": {
+      "version": "2.14",
+      "major": 2,
+      "channel": "stable",
+      "preRelease": null,
+      "releasedAt": "2006-01-24",
+      "artifacts": {
+        "zip": {
+          "url": "https://downloads.sourceforge.net/project/nsis/NSIS%202/2.14/nsis-2.14.zip",
+          "filename": "nsis-2.14.zip",
+          "size": 1959364,
+          "hashes": {
+            "sha1": "50325d80533b30e9e3788c66b3633cfae2cd3efd",
+            "sha256": "88195a2a1b1bb65baa8f1efc6e2864ca021ccf95a4fc825c6a9bf354f856eb17",
+            "sha512": "8e9c6665d3281a8c4a6b2a1b7e90b0f71241ce046a9406f17462c48e27f8a45586a2bbe7676beae63921d20741606e7c15108b7163685b3b33b83386ac494d93"
+          }
+        },
+        "sourceTarball": {
+          "url": "https://downloads.sourceforge.net/project/nsis/NSIS%202/2.14/nsis-2.14-src.tar.bz2",
+          "filename": "nsis-2.14-src.tar.bz2",
+          "size": 1569846,
+          "hashes": {
+            "sha1": "55f0b4c1e6354a38fc0feb14adda400eaca42d30",
+            "sha256": "9aaf85dbf02d8532995550e53ba41f537f6c354357f04a6e9048b143d5f7661f",
+            "sha512": "9a537405093ae22d0c980d600f73343ceba71679e647e2a588fc6060e5f5f5ae6b937c2bff7faa036d451926307f6c8659e648fa474ee925d530d847fec8499e"
+          }
+        }
+      }
+    },
+    "2.15": {
+      "version": "2.15",
+      "major": 2,
+      "channel": "stable",
+      "preRelease": null,
+      "releasedAt": "2006-03-04",
+      "artifacts": {
+        "zip": {
+          "url": "https://downloads.sourceforge.net/project/nsis/NSIS%202/2.15/nsis-2.15.zip",
+          "filename": "nsis-2.15.zip",
+          "size": 1967602,
+          "hashes": {
+            "sha1": "47e79c78b0b91163c4c50aa1bc84f27149287416",
+            "sha256": "aebcf7d70bf14c36924c0cb76c03b78f828f8f187577f1a7e4b72b14ee67ccf0",
+            "sha512": "0ddd1e585a66240c4accfc506d0a2865f92d08f56e42c3089a6b5b4e33a8e929611b8cc0e2469b32470c8ba07ec9f9d87860b68d5821aa9d67352f7c4159d824"
+          }
+        },
+        "sourceTarball": {
+          "url": "https://downloads.sourceforge.net/project/nsis/NSIS%202/2.15/nsis-2.15-src.tar.bz2",
+          "filename": "nsis-2.15-src.tar.bz2",
+          "size": 1573244,
+          "hashes": {
+            "sha1": "c8c8dd4f37b8a1dfa6cac8f4448dbde9d48fba57",
+            "sha256": "e3d9a82fc2ef400f80641980dd7aa6f7fd1e7ce00b121663f5bc099b344fc5c4",
+            "sha512": "dcd50b4ac103db302579c7f0d0e6b5bc6487d5ca87b5d488ca405b51150ffe412f8a52ad2341a3e4f62feb0d89c83f9a4153374f61c6783d8be7a8338be14129"
+          }
+        }
+      }
+    },
+    "2.16": {
+      "version": "2.16",
+      "major": 2,
+      "channel": "stable",
+      "preRelease": null,
+      "releasedAt": "2006-04-07",
+      "artifacts": {
+        "zip": {
+          "url": "https://downloads.sourceforge.net/project/nsis/NSIS%202/2.16/nsis-2.16.zip",
+          "filename": "nsis-2.16.zip",
+          "size": 1975020,
+          "hashes": {
+            "sha1": "f725804cae45a7b965281f2ef1dfc6ae53f66037",
+            "sha256": "e2983c48fb2f5325cf545a43871226e58e4ef102f67e3bcd4960d20e326c7438",
+            "sha512": "a8b60cca98031f12c0ae4a6bbd990e11054605d8b87dcc492ceb06990c05e03fd97f0c4f362f2e81f2dff604c040bb211c00148976c67555bc622b84844389ca"
+          }
+        },
+        "sourceTarball": {
+          "url": "https://downloads.sourceforge.net/project/nsis/NSIS%202/2.16/nsis-2.16-src.tar.bz2",
+          "filename": "nsis-2.16-src.tar.bz2",
+          "size": 1583265,
+          "hashes": {
+            "sha1": "76ac16351f2a143048c25c9429651df53d1525d7",
+            "sha256": "f0d381494f9e01bfed866945883f7af17ee47efdd73e6009974cf24dbfda58ab",
+            "sha512": "a394268f0dcb091b79047276f1580d6846d8c69cb47c3b2347c757a79332b355a9831640f17e7f22c09ee6d7c9cbea06cd0afb645aa8b6265e404223081e2be3"
+          }
+        }
+      }
+    },
+    "2.17": {
+      "version": "2.17",
+      "major": 2,
+      "channel": "stable",
+      "preRelease": null,
+      "releasedAt": "2006-05-19",
+      "artifacts": {
+        "zip": {
+          "url": "https://downloads.sourceforge.net/project/nsis/NSIS%202/2.17/nsis-2.17.zip",
+          "filename": "nsis-2.17.zip",
+          "size": 1983461,
+          "hashes": {
+            "sha1": "636f197524e44ba0319f79aac5b00ad7cda07c2c",
+            "sha256": "1f5c390f9dcce9d97571525f286576908085b435941e986db70cebd1d2939412",
+            "sha512": "5f78c2d79093e8b498f09139daf212d7303ad6b4fa2fbc80db494d16efde34bc2e95bb30ac002e7d01b21f4697c98d9b9ad8a0f434d8d07ef5dc1c08f9260b05"
+          }
+        },
+        "sourceTarball": {
+          "url": "https://downloads.sourceforge.net/project/nsis/NSIS%202/2.17/nsis-2.17-src.tar.bz2",
+          "filename": "nsis-2.17-src.tar.bz2",
+          "size": 1582291,
+          "hashes": {
+            "sha1": "6f67000766fa288a0124eb2094798ddc76184b40",
+            "sha256": "b5eb337b92892a31c4b88a6b7dd1a8546491900434a2ca10d4bfa668683338d4",
+            "sha512": "af1d2f7f6e6a512adee706e4fc1e6d330fa6fd826cc59daae9f15a9bfc97774b5fcc651bd9bede5036e6949ac1495fbfa4c4a7d5bdba09c9056518380f191757"
+          }
+        }
+      }
+    },
+    "2.18": {
+      "version": "2.18",
+      "major": 2,
+      "channel": "stable",
+      "preRelease": null,
+      "releasedAt": "2006-07-01",
+      "artifacts": {
+        "zip": {
+          "url": "https://downloads.sourceforge.net/project/nsis/NSIS%202/2.18/nsis-2.18.zip",
+          "filename": "nsis-2.18.zip",
+          "size": 1988459,
+          "hashes": {
+            "sha1": "8c88ad9647b86612ead0e5bf2e54405639b1819a",
+            "sha256": "1567ab6797b441214556c9e6bb7263a75151014a962f31fa16b6ca34b1c18e89",
+            "sha512": "0b469936d17d06d858f51d605cbbd9e197158682562e3bb93d2dc708fab22d39aad2c5114b6caba0494ecb34416b1848719f88f1d80f4d75a762f0a822010bd8"
+          }
+        },
+        "sourceTarball": {
+          "url": "https://downloads.sourceforge.net/project/nsis/NSIS%202/2.18/nsis-2.18-src.tar.bz2",
+          "filename": "nsis-2.18-src.tar.bz2",
+          "size": 1587124,
+          "hashes": {
+            "sha1": "d538b6fbed883841aa81efb0df5c777f2707e1a0",
+            "sha256": "bbfc6c9b3c211a5144135db8b5ffc188998841ca4002486f13b6b31f4a01725e",
+            "sha512": "22d247596e94b4b9dbdc9f8369aa6bb62937da2931851c21a911cfd0562c3f8e8f920c5edbb8b11d743b9f59824a09a445ff9fc46e8e1250562c34ea6d1727bf"
+          }
+        }
+      }
+    },
+    "2.19": {
+      "version": "2.19",
+      "major": 2,
+      "channel": "stable",
+      "preRelease": null,
+      "releasedAt": "2006-08-06",
+      "artifacts": {
+        "zip": {
+          "url": "https://downloads.sourceforge.net/project/nsis/NSIS%202/2.19/nsis-2.19.zip",
+          "filename": "nsis-2.19.zip",
+          "size": 1992674,
+          "hashes": {
+            "sha1": "ab0c65d8cae73c7b706c252b861d314fe8ba5775",
+            "sha256": "d27bdfbb308745feadfdd6b650920efa59704b2e16f038b4a697ca35770c200e",
+            "sha512": "9d49f3971632957a3e517a6fe7f34322933f6af0856c756e4afe515ec04d47976cbd32402d1dc2b0a71ced520013e764553f88dc0ef3beb5cbbb172471770825"
+          }
+        },
+        "sourceTarball": {
+          "url": "https://downloads.sourceforge.net/project/nsis/NSIS%202/2.19/nsis-2.19-src.tar.bz2",
+          "filename": "nsis-2.19-src.tar.bz2",
+          "size": 1590793,
+          "hashes": {
+            "sha1": "7f9beb9fb76811c926c279751c6a6c00ae53192e",
+            "sha256": "bceff1809c9345eaf3d881ba0d8aa68c1eb296cf2f80aff78ffddccc65f2575d",
+            "sha512": "525e1ab45198bb591d8946185994a5f4c0b0b0f7bba410983c795f05c10491a50de3c57b59111f65cbd8321c6ea8af50d20454307c7dfa801df14ff6cb8b222b"
+          }
+        }
+      }
+    },
+    "2.20": {
+      "version": "2.20",
+      "major": 2,
+      "channel": "stable",
+      "preRelease": null,
+      "releasedAt": "2006-09-09",
+      "artifacts": {
+        "zip": {
+          "url": "https://downloads.sourceforge.net/project/nsis/NSIS%202/2.20/nsis-2.20.zip",
+          "filename": "nsis-2.20.zip",
+          "size": 1995116,
+          "hashes": {
+            "sha1": "c84541245c95a5d5215b8f27eefeca749b327934",
+            "sha256": "04c43c9bd03d2f1551af0f5b5afed33a90dafb8b99b86953bc717109c2ed0fd1",
+            "sha512": "cc4baa333347168fcd94b9fc6cb744ae3a3d61e5c831dcc1ebe1218886728dc3832869ad953ed28bf249d8dcb539985ad80a91f64b2a5cd6705b39061ebb1f12"
+          }
+        },
+        "sourceTarball": {
+          "url": "https://downloads.sourceforge.net/project/nsis/NSIS%202/2.20/nsis-2.20-src.tar.bz2",
+          "filename": "nsis-2.20-src.tar.bz2",
+          "size": 1591610,
+          "hashes": {
+            "sha1": "bce2d46047c81e3f478779215db16b0371948d7c",
+            "sha256": "b50a6e497dbfe9900d72531a81e66c98e993755d62371b6fda62aef8bdd5a510",
+            "sha512": "99eb3649b9cbd6673526202976aad784c766ac5a10bbbedf582b5f7f57ec064ed8e7150f02b84dfe6b3068b22f40f0db61a329606851ce7a9c911c8abd6aaa8f"
+          }
+        }
+      }
+    },
+    "2.21": {
+      "version": "2.21",
+      "major": 2,
+      "channel": "stable",
+      "preRelease": null,
+      "releasedAt": "2006-10-20",
+      "artifacts": {
+        "zip": {
+          "url": "https://downloads.sourceforge.net/project/nsis/NSIS%202/2.21/nsis-2.21.zip",
+          "filename": "nsis-2.21.zip",
+          "size": 2003024,
+          "hashes": {
+            "sha1": "fe4b7e95bbb8b56f2016d0371405546b18d942db",
+            "sha256": "4ea53dda18a0925f7168150eb8af2bd0f891aea5ab0609c44217d2718821319c",
+            "sha512": "d7fe905b4a2a0f11d7cacd2f8f927058dc2cf3cf3442f0acac3928941ad8f5ad19c2eb88481016d3229c50c7e293408366f4859ad6802e40725f6be4ea420715"
+          }
+        },
+        "sourceTarball": {
+          "url": "https://downloads.sourceforge.net/project/nsis/NSIS%202/2.21/nsis-2.21-src.tar.bz2",
+          "filename": "nsis-2.21-src.tar.bz2",
+          "size": 1599766,
+          "hashes": {
+            "sha1": "ade7a2be95d1d217baa0a22388fc99df5bc6175a",
+            "sha256": "db8a814c9ffa1723f797751fa145e45106421ad846c654db45cb30dabbfd76a3",
+            "sha512": "54c14ff92df593d7fbe3a1e471691662e6d200510858aea6a04bc2a4a917f9d3c82ffe1e8ddf05ad85efb7ce8cfd99c53579092229898be2ff623ffacf241495"
+          }
+        }
+      }
+    },
+    "2.22": {
+      "version": "2.22",
+      "major": 2,
+      "channel": "stable",
+      "preRelease": null,
+      "releasedAt": "2006-11-27",
+      "artifacts": {
+        "zip": {
+          "url": "https://downloads.sourceforge.net/project/nsis/NSIS%202/2.22/nsis-2.22.zip",
+          "filename": "nsis-2.22.zip",
+          "size": 2025124,
+          "hashes": {
+            "sha1": "157643577f64c9884db8cf8037c6b20996399a51",
+            "sha256": "7caf4276340aca32198703c0efd8d6b4a72fc51fb78477a176a9d44ca7e258da",
+            "sha512": "d51136d06a9ab97bca1646cb233032bd82b3bdb7151f7cca517c3a33d4cce30855b914ca880db93a5fe083c279dd09e125184b617ada499ec2d2639bc1fa2755"
+          }
+        },
+        "sourceTarball": {
+          "url": "https://downloads.sourceforge.net/project/nsis/NSIS%202/2.22/nsis-2.22-src.tar.bz2",
+          "filename": "nsis-2.22-src.tar.bz2",
+          "size": 1603505,
+          "hashes": {
+            "sha1": "5ef9f6694fd29cf3d1f4148e78451fc8228892db",
+            "sha256": "4df89ea7d3d5055b0a1ffedb79ad8e2bec04a58f5174da4c86f9ef5a6bc620dc",
+            "sha512": "a475bf643f770347b8178c6d87f0a498220ca1c3531b66d854a33816f1fb5fb3766253259eeac801d901c9e204baab7a6220c909cfc1e65b1e7743013420af6c"
+          }
+        }
+      }
+    },
+    "2.23": {
+      "version": "2.23",
+      "major": 2,
+      "channel": "stable",
+      "preRelease": null,
+      "releasedAt": "2007-01-13",
+      "artifacts": {
+        "zip": {
+          "url": "https://downloads.sourceforge.net/project/nsis/NSIS%202/2.23/nsis-2.23.zip",
+          "filename": "nsis-2.23.zip",
+          "size": 2027586,
+          "hashes": {
+            "sha1": "d377dfdc16159de30c4cf167af3ef5f1fb36a875",
+            "sha256": "b0f7e4ec47accb7c36384884ce784c79c29015040033c9c53ce069a2c349763c",
+            "sha512": "bb8a68a1fd5e3484484e5d6e6f59828ac486e5450ff9b06eed8ce74c1edd7d0f8d652b66e4a58772c52b559269409942fe3e1a986e4ff699ada257065cbd0ad3"
+          }
+        },
+        "sourceTarball": {
+          "url": "https://downloads.sourceforge.net/project/nsis/NSIS%202/2.23/nsis-2.23-src.tar.bz2",
+          "filename": "nsis-2.23-src.tar.bz2",
+          "size": 1604427,
+          "hashes": {
+            "sha1": "bb5da7eb6fb1dcbb2ad992914e4d94700c461d91",
+            "sha256": "cf76014e34c54b5c3797ba36747f735cd2d95052a9e04960233d3233e6ad6bdf",
+            "sha512": "c7caf864a8717ce0fe41b32367fea003d60f731dbc2e34f0b86d8767706416dd81fc52525aa76dd8f97747e3443dbb9b1aace6f29d039dc18d3e2afc3bf19bf3"
+          }
+        }
+      }
+    },
+    "2.24": {
+      "version": "2.24",
+      "major": 2,
+      "channel": "stable",
+      "preRelease": null,
+      "releasedAt": "2007-02-17",
+      "artifacts": {
+        "zip": {
+          "url": "https://downloads.sourceforge.net/project/nsis/NSIS%202/2.24/nsis-2.24.zip",
+          "filename": "nsis-2.24.zip",
+          "size": 2037118,
+          "hashes": {
+            "sha1": "d94e5784540b3b364fc516a08eb63c629c2f951f",
+            "sha256": "71b5b47cca1b9ec37d4de1f38aacd10824289f4ea80451cba21361664e6df0a5",
+            "sha512": "08d6c4b50d15e2d4b5ee86c1982ff4aaa31370a4079caa5223e267b2645d947ba1e81f71a5d28ba7946a7b7ec38f0a3a74ee75b6ac8250a06e99e4c68af37a88"
+          }
+        },
+        "sourceTarball": {
+          "url": "https://downloads.sourceforge.net/project/nsis/NSIS%202/2.24/nsis-2.24-src.tar.bz2",
+          "filename": "nsis-2.24-src.tar.bz2",
+          "size": 1613342,
+          "hashes": {
+            "sha1": "ec964bc7fcf00842febcf1d395a2a5bd7c1ad17c",
+            "sha256": "46cafddcdb3a08fe60ff4976be568af17eb36b420547807acd295e09b42af040",
+            "sha512": "a03966bc09a25499dc36ec1913b01d3b009c8cabcc9d5243ad9cb0abc5b69729dd679a3e09cdebea765f67af52f6486db33ec69ac45505cddf9f36024d7d6e09"
+          }
+        }
+      }
+    },
+    "2.25": {
+      "version": "2.25",
+      "major": 2,
+      "channel": "stable",
+      "preRelease": null,
+      "releasedAt": "2007-03-31",
+      "artifacts": {
+        "zip": {
+          "url": "https://downloads.sourceforge.net/project/nsis/NSIS%202/2.25/nsis-2.25.zip",
+          "filename": "nsis-2.25.zip",
+          "size": 2136937,
+          "hashes": {
+            "sha1": "e481e0e5f67ff50286c4ffcfca14886b38a77020",
+            "sha256": "e30e20d46468da00f4f0d02b457c32f9ecf28f5fbe0376480302cc48ac974e4d",
+            "sha512": "2cb3b085e8e8e05e8f96aea3b07107bed9a14490ef957752965d1c86e4a7f1617002c0c7aa12a466ef939ebf7824a157dc3be27e15a2b1ab7c103dd62bcd45dd"
+          }
+        },
+        "sourceTarball": {
+          "url": "https://downloads.sourceforge.net/project/nsis/NSIS%202/2.25/nsis-2.25-src.tar.bz2",
+          "filename": "nsis-2.25-src.tar.bz2",
+          "size": 1358330,
+          "hashes": {
+            "sha1": "e39b839e0d1823324a9a997f06d83b6c7684c083",
+            "sha256": "0089357c39b0733cc2f2719cfcdfa86fb75ce5c53ee60cdce6883ed6bd52222e",
+            "sha512": "472144810f94de4335dd0b49916f7b7e6a5952887e8e91d14189e69f40e9fb1cf9a65df526b15124425dc7a7cf6dabdd9330034093e22c587d697592356eb483"
+          }
+        }
+      }
+    },
+    "2.26": {
+      "version": "2.26",
+      "major": 2,
+      "channel": "stable",
+      "preRelease": null,
+      "releasedAt": "2007-04-27",
+      "artifacts": {
+        "zip": {
+          "url": "https://downloads.sourceforge.net/project/nsis/NSIS%202/2.26/nsis-2.26.zip",
+          "filename": "nsis-2.26.zip",
+          "size": 2154404,
+          "hashes": {
+            "sha1": "9d028eda4821817b51b8af5fd2926fcc61a488ed",
+            "sha256": "358527c9e4201c47473b8adb964d8b8331e7aa387f94c759e662d92487f13b51",
+            "sha512": "71ad9e7f0dcf53ed76002dffea5b460863136b4aafd6a0131f84a578480744ad758f14fa94b244caf026f3affe77610dcdd5afee7ad83993924d7230bbf91c64"
+          }
+        },
+        "sourceTarball": {
+          "url": "https://downloads.sourceforge.net/project/nsis/NSIS%202/2.26/nsis-2.26-src.tar.bz2",
+          "filename": "nsis-2.26-src.tar.bz2",
+          "size": 1450232,
+          "hashes": {
+            "sha1": "94a2d65f3ae426a75689726e381e4da78ab535d6",
+            "sha256": "93b89647f206829f4cb01dedd0b1a2b8e03036bce96b5a869415d3db917b58c6",
+            "sha512": "9a65296c3e7cf7f8ddbe3106b416de6012084169a0f30f314c0e424411e0e94c138144f60690a496f5822a512760346fbe97ad11de3bf62781da36b401beeccb"
+          }
+        }
+      }
+    },
+    "2.27": {
+      "version": "2.27",
+      "major": 2,
+      "channel": "stable",
+      "preRelease": null,
+      "releasedAt": "2007-05-05",
+      "artifacts": {
+        "zip": {
+          "url": "https://downloads.sourceforge.net/project/nsis/NSIS%202/2.27/nsis-2.27.zip",
+          "filename": "nsis-2.27.zip",
+          "size": 2156565,
+          "hashes": {
+            "sha1": "0e0210391d86ba41185bedeac5859a4a06f282ec",
+            "sha256": "de4b0e2722125f3ddea3e1694dc9752e78b1928efa5e70c12ac56e1605da095c",
+            "sha512": "fa3f0552a6fbac4543e8ff8bb8a83742f06bd09294d2726b8e038a816160e9a5c8a172a9767e37455bce9bb2a437dbe5d1a1929ee8bc7f64336a58ad32407013"
+          }
+        },
+        "sourceTarball": {
+          "url": "https://downloads.sourceforge.net/project/nsis/NSIS%202/2.27/nsis-2.27-src.tar.bz2",
+          "filename": "nsis-2.27-src.tar.bz2",
+          "size": 1450223,
+          "hashes": {
+            "sha1": "1f899af4d1dc4969dc7c470c0d54765ea10c4c35",
+            "sha256": "22d1f981ba1da13c6c9fa722656668c6971f2efa858e81a16e4f9959ea54f5e8",
+            "sha512": "a86d5f1a3726135e2fcbad63a94a2a7b3acdfbc5bb29527322c94157598abe28ee9c8400fe8f53c8363eb723048b7ea847a2f5b34dc2e819cb82ef434fcc9a38"
+          }
+        }
+      }
+    },
+    "2.28": {
+      "version": "2.28",
+      "major": 2,
+      "channel": "stable",
+      "preRelease": null,
+      "releasedAt": "2007-06-08",
+      "artifacts": {
+        "zip": {
+          "url": "https://downloads.sourceforge.net/project/nsis/NSIS%202/2.28/nsis-2.28.zip",
+          "filename": "nsis-2.28.zip",
+          "size": 2150157,
+          "hashes": {
+            "sha1": "37634c56d08137acf76a8c938b40135d666b476c",
+            "sha256": "9a05aec83515f511f808a540153c5358e71385ac3f5e688267929050daebd456",
+            "sha512": "f7c29a41b7deb7b2001986db4e765e4036b96fc65d22825a524d2685d87c274e109f542f6ed2e59e1011c60b23a8d92360289902f73f233b30bbc14c92a52529"
+          }
+        },
+        "sourceTarball": {
+          "url": "https://downloads.sourceforge.net/project/nsis/NSIS%202/2.28/nsis-2.28-src.tar.bz2",
+          "filename": "nsis-2.28-src.tar.bz2",
+          "size": 1445137,
+          "hashes": {
+            "sha1": "e3e5fdcd610e089b70a6d05fbb46bab0b342078f",
+            "sha256": "256fcfdc1392488d8e5ec8415e1e8dff35195b5d3967507dcbf93b30fa23bc02",
+            "sha512": "777720d11f7e5dd29940d9f35084406784ea8ad8e43309c603cf00ab935c3d1fd2e5525cae0228447c6576bd4b94a3edf61456588234dc2367403dd4f8a5a00c"
+          }
+        }
+      }
+    },
+    "2.29": {
+      "version": "2.29",
+      "major": 2,
+      "channel": "stable",
+      "preRelease": null,
+      "releasedAt": "2007-07-14",
+      "artifacts": {
+        "zip": {
+          "url": "https://downloads.sourceforge.net/project/nsis/NSIS%202/2.29/nsis-2.29.zip",
+          "filename": "nsis-2.29.zip",
+          "size": 2167743,
+          "hashes": {
+            "sha1": "dd5cbc8a6c6a7cbe5147c6edd7649ba5fd3dea19",
+            "sha256": "650b5d289e25e634337661a19985c32f742fa161abbbfa2b8d73eab330850421",
+            "sha512": "82808b6ebd3daf49181dc71e838c55c365d80d52134c486bac82c35ff8cf5ed9786be48ddeb758be97af77a645f84d5359d828bf8cdc93961e1079271938b67a"
+          }
+        },
+        "sourceTarball": {
+          "url": "https://downloads.sourceforge.net/project/nsis/NSIS%202/2.29/nsis-2.29-src.tar.bz2",
+          "filename": "nsis-2.29-src.tar.bz2",
+          "size": 1453149,
+          "hashes": {
+            "sha1": "4e89a572f701c8e44c887d156f0b84f779b3bac7",
+            "sha256": "b27c4db9b0ef064f1b9ae191fc209c84645560d5912ef3b9138392321c41d44d",
+            "sha512": "622c9999e4ccbc4316e1a300e13d7c731efaa91962aa7716fa11ec1602d5a635d06986c95832ccc83dfdf682897685b75ea3d317882040b774ca4dc71f25cfbb"
+          }
+        }
+      }
+    },
+    "2.30": {
+      "version": "2.30",
+      "major": 2,
+      "channel": "stable",
+      "preRelease": null,
+      "releasedAt": "2007-08-25",
+      "artifacts": {
+        "zip": {
+          "url": "https://downloads.sourceforge.net/project/nsis/NSIS%202/2.30/nsis-2.30.zip",
+          "filename": "nsis-2.30.zip",
+          "size": 2250046,
+          "hashes": {
+            "sha1": "ae87ff543ebc38a4aea8691104c54a74804213ca",
+            "sha256": "d4b6692651b916e8c4238a88e46b6530efff9ab65dc0693b34c59dce401e2b3a",
+            "sha512": "b28f1c697f8149b6ac58e7e0bb1ca285cc1aaf391f7ef5ab8d48be44beb3f51775a223b7a05fe1e7bfb01a37964c34c9eeeb4aacaf15007c83287680eafe9fb4"
+          }
+        },
+        "sourceTarball": {
+          "url": "https://downloads.sourceforge.net/project/nsis/NSIS%202/2.30/nsis-2.30-src.tar.bz2",
+          "filename": "nsis-2.30-src.tar.bz2",
+          "size": 1465234,
+          "hashes": {
+            "sha1": "3ee0f62182b5ed81dfc695081a1f88447e5df517",
+            "sha256": "9a225817f1ffc01e9a470d3bb49ee5c1ef1471e0142f888e1d3cdb051f9a142d",
+            "sha512": "600b45a176ee54ce98c2981978147acec2c391f71b3c85b593f0c4b4d829719d44569fa05ec02d7dbcaf578767092d7c301d5ff30f4818fbd748913515529f19"
+          }
+        }
+      }
+    },
+    "2.31": {
+      "version": "2.31",
+      "major": 2,
+      "channel": "stable",
+      "preRelease": null,
+      "releasedAt": "2007-09-29",
+      "artifacts": {
+        "zip": {
+          "url": "https://downloads.sourceforge.net/project/nsis/NSIS%202/2.31/nsis-2.31.zip",
+          "filename": "nsis-2.31.zip",
+          "size": 2250996,
+          "hashes": {
+            "sha1": "6aa6a9be13337da69c9cb1c2032b6a49908a5afc",
+            "sha256": "5b14171b9519fdc156c39a137d2da7ff07332f0337cf9e2ba46bd90dd9f244bd",
+            "sha512": "458e24d2c1eb7c934ac65605cb83cea668fd3a0d6fe0de2b51b8bb91b4781f660bf8d014942cbe367c7ce045f0591df52abfd3408585b54904234e6d62587775"
+          }
+        },
+        "sourceTarball": {
+          "url": "https://downloads.sourceforge.net/project/nsis/NSIS%202/2.31/nsis-2.31-src.tar.bz2",
+          "filename": "nsis-2.31-src.tar.bz2",
+          "size": 1464687,
+          "hashes": {
+            "sha1": "ca0fee9c6fd37de9b49473f9c56115e4b580ef80",
+            "sha256": "ebe74f550f62a33c5ddc574d689b6f1ed76f1ab7189623ce1f4b33d2b74190a9",
+            "sha512": "017aa834d5188993a2f0d5737fa73b33e9580acc92810d69188c725fe037516fb3b55dca4f8b0ca7b7580493c65f7fb6048b5a1c40ded60e523f3bb9d30cc38b"
+          }
+        }
+      }
+    },
+    "2.32": {
+      "version": "2.32",
+      "major": 2,
+      "channel": "stable",
+      "preRelease": null,
+      "releasedAt": "2007-11-09",
+      "artifacts": {
+        "zip": {
+          "url": "https://downloads.sourceforge.net/project/nsis/NSIS%202/2.32/nsis-2.32.zip",
+          "filename": "nsis-2.32.zip",
+          "size": 2252531,
+          "hashes": {
+            "sha1": "1367653a5ecdc3811c4c7dfaff9a67f31ee7fb9d",
+            "sha256": "1ec29d9bb00000ca3c429abcbd834eb9b574709e3962a3920d9e447b05eb67d8",
+            "sha512": "74cf6c1fdf9a2300cb68d126e0921a87fdc77fd2d1d1655a7f7c62a2b5a00824336a83a81fe3e2395a8bf178d0bac71221041c2f77373c2562aea9f809814e15"
+          }
+        },
+        "sourceTarball": {
+          "url": "https://downloads.sourceforge.net/project/nsis/NSIS%202/2.32/nsis-2.32-src.tar.bz2",
+          "filename": "nsis-2.32-src.tar.bz2",
+          "size": 1479682,
+          "hashes": {
+            "sha1": "528d0926670a4ac4b15960c43ee73bf0eaeb0b57",
+            "sha256": "0a3ee7afe74ac274259d28def97bf51a600f5b529e2d71b683a0988188a012df",
+            "sha512": "0231a4784fed6a22f552c4391a09dea226c43d7a567b94586e129f2bfd4e54b86644314127bb5612b8723da46732382c4ff81344b2cca9c228a1752e317a6f7b"
+          }
+        }
+      }
+    },
+    "2.33": {
+      "version": "2.33",
+      "major": 2,
+      "channel": "stable",
+      "preRelease": null,
+      "releasedAt": "2007-11-17",
+      "artifacts": {
+        "zip": {
+          "url": "https://downloads.sourceforge.net/project/nsis/NSIS%202/2.33/nsis-2.33.zip",
+          "filename": "nsis-2.33.zip",
+          "size": 2257150,
+          "hashes": {
+            "sha1": "b01630b2ed0f30e451fb9889c19ad46eba6a1622",
+            "sha256": "16227a738301837db4b0628e3e0947127a40be2c65d2ad9f96af58523ff053ef",
+            "sha512": "1067fb054a794d540ae208d16033f80c4d90e102f2a253a05b381f4d9418d2a63d1f14da52b8ce6f9710df9895c6cb2073d3d9288f7bfaa6b8c0796a33bbf8bf"
+          }
+        },
+        "sourceTarball": {
+          "url": "https://downloads.sourceforge.net/project/nsis/NSIS%202/2.33/nsis-2.33-src.tar.bz2",
+          "filename": "nsis-2.33-src.tar.bz2",
+          "size": 1480437,
+          "hashes": {
+            "sha1": "0c205a6abba466a849e5ead1f40cf153f99b06fb",
+            "sha256": "18f6023e2b43c3402b306b81f615baf687ba2b710be1838c4d99732ff37ae32e",
+            "sha512": "2bee840462dd1a9972b4b179faef543daf5af24e976f7c474f81af07c0a81ddf3bab0f216e1773f4b4dd2cedfd8fbd5995e230216be8a683f68e5302d7045b7d"
+          }
+        }
+      }
+    },
+    "2.34": {
+      "version": "2.34",
+      "major": 2,
+      "channel": "stable",
+      "preRelease": null,
+      "releasedAt": "2007-12-24",
+      "artifacts": {
+        "zip": {
+          "url": "https://downloads.sourceforge.net/project/nsis/NSIS%202/2.34/nsis-2.34.zip",
+          "filename": "nsis-2.34.zip",
+          "size": 2261404,
+          "hashes": {
+            "sha1": "d46ee3d1f0e747fb219edbe57b206348933b349f",
+            "sha256": "e9fdf66c7aedd3268bd3127d894be79ee41e2570509c47696bd770e666bed769",
+            "sha512": "3f3f7d13b334df9d05e553ecb8aa6d8d0b0358db7fe634890b284b32bc4fcb96c41fc202145ac0cf752615b5538c90b06fa689be4708c92e17ac0c929c77fdad"
+          }
+        },
+        "sourceTarball": {
+          "url": "https://downloads.sourceforge.net/project/nsis/NSIS%202/2.34/nsis-2.34-src.tar.bz2",
+          "filename": "nsis-2.34-src.tar.bz2",
+          "size": 1480868,
+          "hashes": {
+            "sha1": "62cf6bbf4e86b201d5a2a947d308a1428d8f510b",
+            "sha256": "95de9f479311532a0e5e933c67fa6c32eb63a4aae4b486aea9c7be49f8295d60",
+            "sha512": "398ab5e280ef0ecca497e0cf6238fbab004a6a4a6f5f457b58627395e4dd6effe758fbdd99729b591bfabb70387b24615aac771be9a45fdd33339e2cbdec7ad3"
+          }
+        }
+      }
+    },
+    "2.35": {
+      "version": "2.35",
+      "major": 2,
+      "channel": "stable",
+      "preRelease": null,
+      "releasedAt": "2008-02-08",
+      "artifacts": {
+        "zip": {
+          "url": "https://downloads.sourceforge.net/project/nsis/NSIS%202/2.35/nsis-2.35.zip",
+          "filename": "nsis-2.35.zip",
+          "size": 2260937,
+          "hashes": {
+            "sha1": "02f18d3fec5c78c26216b362ec5c03e875b22b6d",
+            "sha256": "692dba109574a8eb1a10892b9d19ee28ebec7d82ffe730121b4b9a0137c33273",
+            "sha512": "34872e741f8800feaf3be413794e821ba1e04ba6703963aa5a6c9e7e3947ebb912e36155ff3c5089886fdc1c523a99b99bd746e60c0a5eac2adc3cc0e3f9dd71"
+          }
+        },
+        "sourceTarball": {
+          "url": "https://downloads.sourceforge.net/project/nsis/NSIS%202/2.35/nsis-2.35-src.tar.bz2",
+          "filename": "nsis-2.35-src.tar.bz2",
+          "size": 1487451,
+          "hashes": {
+            "sha1": "3ec529f13f5cbac652da50769625d3388220497a",
+            "sha256": "9313fd7c00ae5c795216253003d62879b46c750fab90c0a22479130a6db4c736",
+            "sha512": "f9d01ba2c49637e596699264d2457d5e88d2f6bfb42e7210262bc1a015dd0f2846817a33f224c5c73b822d113a70865a21b6e795224a7ea20605b4fd2cab19c2"
+          }
+        }
+      }
+    },
+    "2.36": {
+      "version": "2.36",
+      "major": 2,
+      "channel": "stable",
+      "preRelease": null,
+      "releasedAt": "2008-03-29",
+      "artifacts": {
+        "zip": {
+          "url": "https://downloads.sourceforge.net/project/nsis/NSIS%202/2.36/nsis-2.36.zip",
+          "filename": "nsis-2.36.zip",
+          "size": 2266372,
+          "hashes": {
+            "sha1": "80d428d23a5baf58b995da65d68fbd760e87fc0b",
+            "sha256": "c7c93d301436639b2e2ea5865595e570384b61ea81579d46401f608f43a02966",
+            "sha512": "57195ce9ad04ba5f774d71fe31990fe34e38c855ebfdd569deff0e532a77312fcf91649a3529b601443666daa34d3f0044ec282b7775eb2c926dd08c294fddb9"
+          }
+        },
+        "sourceTarball": {
+          "url": "https://downloads.sourceforge.net/project/nsis/NSIS%202/2.36/nsis-2.36-src.tar.bz2",
+          "filename": "nsis-2.36-src.tar.bz2",
+          "size": 1492683,
+          "hashes": {
+            "sha1": "adc93f971c9ab2be5385506d0e67b416e10c49e3",
+            "sha256": "24e6ce80cd2b03807fec55da27d507992ad6c56fd9ca217e1b62a8b86087d4c5",
+            "sha512": "1c4df3bcf64029e0451d6fd3edc444f3bdbb655aa2e87701d1c373acbe6f26bd0146b2c43b1addf2b4b3b4e8dd725a91947daf2a04fa5e0ebdb62f21e8b419b5"
+          }
+        }
+      }
+    },
+    "2.37": {
+      "version": "2.37",
+      "major": 2,
+      "channel": "stable",
+      "preRelease": null,
+      "releasedAt": "2008-05-04",
+      "artifacts": {
+        "zip": {
+          "url": "https://downloads.sourceforge.net/project/nsis/NSIS%202/2.37/nsis-2.37.zip",
+          "filename": "nsis-2.37.zip",
+          "size": 2270453,
+          "hashes": {
+            "sha1": "d4061ecd52452c913fc57be8ac69b109c7738cc8",
+            "sha256": "64c07e7b5da4f474a3d80ef35e62a03a69db6c2bd0215b4582e8eb562efae1d6",
+            "sha512": "56d491da79efb89ceb8f933bb18adbd23e5fee2130b2239eb65e58d4b1721803c7774331889b73593e5811082227115ec3552ef86a6be0c74dde6c059b32c807"
+          }
+        },
+        "sourceTarball": {
+          "url": "https://downloads.sourceforge.net/project/nsis/NSIS%202/2.37/nsis-2.37-src.tar.bz2",
+          "filename": "nsis-2.37-src.tar.bz2",
+          "size": 1470086,
+          "hashes": {
+            "sha1": "5bad6987de86b7a0e6c93a00e7dd572d6c85e7c7",
+            "sha256": "7d1238d543d304c2a74b0ff62e4178b895af161c6dcb7e3df9932379662ab6ed",
+            "sha512": "b21457052a43d95ca60401002a9dc8f194d4c03419e6d70e315ffe95c1ae8455859e8977499825db6c227a7e0c4652909064b1ee3ef828fac99752d5765bdd43"
+          }
+        }
+      }
+    },
+    "2.38": {
+      "version": "2.38",
+      "major": 2,
+      "channel": "stable",
+      "preRelease": null,
+      "releasedAt": "2008-07-12",
+      "artifacts": {
+        "zip": {
+          "url": "https://downloads.sourceforge.net/project/nsis/NSIS%202/2.38/nsis-2.38.zip",
+          "filename": "nsis-2.38.zip",
+          "size": 2272596,
+          "hashes": {
+            "sha1": "3bf52aaeda6a32886f9475c529f135cae03e125b",
+            "sha256": "82ef0aa78bfbf482ed691cab5af47cb16085614e7fe7a319acf36071f1a2603e",
+            "sha512": "7a1498e872e9077463f555db7c9195274c528285a833ef45a12af65a526a14f4d3d4706a095201fae044f0f92c4dffaf46560a21f96b9b837e49847fe4f0ccbc"
+          }
+        },
+        "sourceTarball": {
+          "url": "https://downloads.sourceforge.net/project/nsis/NSIS%202/2.38/nsis-2.38-src.tar.bz2",
+          "filename": "nsis-2.38-src.tar.bz2",
+          "size": 1471486,
+          "hashes": {
+            "sha1": "dddec46d7ba6ccca94efa4db3650f03560e6c5a5",
+            "sha256": "1493ea75ebacfd92066b8fb8f495d9c422a642953b92d08108bf9da8a5c047f3",
+            "sha512": "fbf1ff7d6d99ca590370b8199413d256bae985c74adede79ab2e8fd5a4999759059519b8b6f2c71885e3c56834fe396722e7495c517822032e69e51b49c8b209"
+          }
+        }
+      }
+    },
+    "2.39": {
+      "version": "2.39",
+      "major": 2,
+      "channel": "stable",
+      "preRelease": null,
+      "releasedAt": "2008-08-16",
+      "artifacts": {
+        "zip": {
+          "url": "https://downloads.sourceforge.net/project/nsis/NSIS%202/2.39/nsis-2.39.zip",
+          "filename": "nsis-2.39.zip",
+          "size": 2277754,
+          "hashes": {
+            "sha1": "1bd494adf19a02e3f3386dbbebc47fff80f3d72c",
+            "sha256": "4b46060d6fbe2b6d6ab6eb9c79d327439fe89ac288969c18a428250c9b377391",
+            "sha512": "0c3fe7dda4e8ccad02de06b7da98e44466c0c64c3119b0a187091716ecd6bc83fe7ba3c6a0973d65bf7c397a03977944c90951f9da6222ff725371272e761402"
+          }
+        },
+        "sourceTarball": {
+          "url": "https://downloads.sourceforge.net/project/nsis/NSIS%202/2.39/nsis-2.39-src.tar.bz2",
+          "filename": "nsis-2.39-src.tar.bz2",
+          "size": 1474305,
+          "hashes": {
+            "sha1": "325b43edf1bc7fb6f291797fbadaed1ae7150023",
+            "sha256": "d0d69e8781c7eb16f4fd1195e4650c4aeff70e8138f2536d9fe0d8635a61c096",
+            "sha512": "75320dfb2cc12d65b79ffc380c2a01078d5aab3827648edf7a5cf549fefdef089592e0a4bfed665458d8c30b497aefcc9591332225877ed03f163e40fa939918"
+          }
+        }
+      }
+    },
+    "2.40": {
+      "version": "2.40",
+      "major": 2,
+      "channel": "stable",
+      "preRelease": null,
+      "releasedAt": "2008-10-10",
+      "artifacts": {
+        "zip": {
+          "url": "https://downloads.sourceforge.net/project/nsis/NSIS%202/2.40/nsis-2.40.zip",
+          "filename": "nsis-2.40.zip",
+          "size": 2279673,
+          "hashes": {
+            "sha1": "7196b3c692f7496f73a3a34e27179f531a668a83",
+            "sha256": "52726c024ed098f6d7e282a52aebfcea9d179541f293451232d48c6869511511",
+            "sha512": "e59d2fba367db1e96c0910041a4a2bd8fdcd523556db2e5d785b7c0190f1ef0c4498534716c2306c5f727a930e191293da1c3d31c895bfdea98922b69615e760"
+          }
+        },
+        "sourceTarball": {
+          "url": "https://downloads.sourceforge.net/project/nsis/NSIS%202/2.40/nsis-2.40-src.tar.bz2",
+          "filename": "nsis-2.40-src.tar.bz2",
+          "size": 1474838,
+          "hashes": {
+            "sha1": "23ebc2992ac9882cbdfc4370432c917373d2576f",
+            "sha256": "08bd499eb4cc0af18531f3ff2196f7b1f33de43d4cd5e2e859190103251752b3",
+            "sha512": "b21b422c21fb3e589db797791c448db5a71412519bffe5d0bd3a84e8fd0a3d2a202cdb1d340dadfd0d64733314a306bc9cc3e27c5c832e6cb1995fbfc32f79a4"
+          }
+        }
+      }
+    },
+    "2.41": {
+      "version": "2.41",
+      "major": 2,
+      "channel": "stable",
+      "preRelease": null,
+      "releasedAt": "2008-11-20",
+      "artifacts": {
+        "zip": {
+          "url": "https://downloads.sourceforge.net/project/nsis/NSIS%202/2.41/nsis-2.41.zip",
+          "filename": "nsis-2.41.zip",
+          "size": 2293325,
+          "hashes": {
+            "sha1": "e23657e89f7b26310a8fa4301f04b2eab5c349c8",
+            "sha256": "44fd24242c6091cca410625166dfe1bd18c5a91bbca6cd7115d1ce82a8d6ecf2",
+            "sha512": "ff02fb439fb43732444ec481017f9ec6625e89923652e4965eb4215e4769581ab5e36baa61913afc4232e6c23908aab988c3f7049ef1ca68cc93e5edbb6ab3c4"
+          }
+        },
+        "sourceTarball": {
+          "url": "https://downloads.sourceforge.net/project/nsis/NSIS%202/2.41/nsis-2.41-src.tar.bz2",
+          "filename": "nsis-2.41-src.tar.bz2",
+          "size": 1473833,
+          "hashes": {
+            "sha1": "67ee3dc43ea55a2f17c97f1bf7faa41782480a70",
+            "sha256": "9c683827d4491ee9f43d872ea0cf36f1667c0f6552c2ab8f703e98ed586dc0ea",
+            "sha512": "0cf2711cdc17fc7a2e976f609f5bf8218b9d40176ff29860a9ac1e5017458ef8441a68c8b58a60a55d1829bb798dbb8a35dc8ad3ea22668c543e55feb0685525"
+          }
+        }
+      }
+    },
+    "2.42": {
+      "version": "2.42",
+      "major": 2,
+      "channel": "stable",
+      "preRelease": null,
+      "releasedAt": "2008-12-20",
+      "artifacts": {
+        "zip": {
+          "url": "https://downloads.sourceforge.net/project/nsis/NSIS%202/2.42/nsis-2.42.zip",
+          "filename": "nsis-2.42.zip",
+          "size": 2300644,
+          "hashes": {
+            "sha1": "a1aef12a33f16273ac9109fde28713399f6a8016",
+            "sha256": "87368aac4531b6f04ba0d599be33d345a06c337b7114eaf01fbd733ed8e62d34",
+            "sha512": "8f654ab9bafd014df88a71da20893a66655d6e67cf1b830c490fcb7d039341e7bc64aeb77a2fc1f2b00a8b81780dd98d7e64c38c00197a75237a90741bd7b7fa"
+          }
+        },
+        "sourceTarball": {
+          "url": "https://downloads.sourceforge.net/project/nsis/NSIS%202/2.42/nsis-2.42-src.tar.bz2",
+          "filename": "nsis-2.42-src.tar.bz2",
+          "size": 1485266,
+          "hashes": {
+            "sha1": "2087eeb8acc7a8d76b9abb0e4e8828077baeca55",
+            "sha256": "bd8eda89865c4e3b72734e123fab294d5c78fc79d0f8e83485c6773c52895da5",
+            "sha512": "bc9bc38e4238b3a5ce82df99fbeee8cdbb407d774280cad12a210a359242a64ff0ae2411829ddf8f4b00e3c81d95bc56d01fecc99fae9ac253199f4a2cc8ab95"
+          }
+        }
+      }
+    },
+    "2.43": {
+      "version": "2.43",
+      "major": 2,
+      "channel": "stable",
+      "preRelease": null,
+      "releasedAt": "2009-02-05",
+      "artifacts": {
+        "zip": {
+          "url": "https://downloads.sourceforge.net/project/nsis/NSIS%202/2.43/nsis-2.43.zip",
+          "filename": "nsis-2.43.zip",
+          "size": 2318448,
+          "hashes": {
+            "sha1": "1dfdd6ef4b1f49797b7ac1de5640ad6f94572367",
+            "sha256": "1dfc674422e555e41c0592d3a4fe0b25796bbf14638b051c06c2f30b2127e87a",
+            "sha512": "6535cbb459e0f1d9f08afc9de79a5b86958c5225014679cc53bfea6b0716893077f0c6cffc851181f41a70ec95c19337819126986c3f8a3ab25baab316713e25"
+          }
+        },
+        "sourceTarball": {
+          "url": "https://downloads.sourceforge.net/project/nsis/NSIS%202/2.43/nsis-2.43-src.tar.bz2",
+          "filename": "nsis-2.43-src.tar.bz2",
+          "size": 1500679,
+          "hashes": {
+            "sha1": "bbba7a8d5ab97980a711849e592894e324513677",
+            "sha256": "792a55cb7a967906f2b14caa328cbc08960af00a684b18a8832adbcd327a00fd",
+            "sha512": "f6d951c5e569ff00a65a0786d514f7f9a35a6a3468f2c37ec3bcacfa4871d55639d0b5fb7cfd0511bd814434dd685174496dcba5b285f6d64098402fe38fa42a"
+          }
+        }
+      }
+    },
+    "2.44": {
+      "version": "2.44",
+      "major": 2,
+      "channel": "stable",
+      "preRelease": null,
+      "releasedAt": "2009-02-21",
+      "artifacts": {
+        "zip": {
+          "url": "https://downloads.sourceforge.net/project/nsis/NSIS%202/2.44/nsis-2.44.zip",
+          "filename": "nsis-2.44.zip",
+          "size": 2317636,
+          "hashes": {
+            "sha1": "6dec54d6a3cacd615b3fad16bd6eb30260d4be63",
+            "sha256": "6cc85abb944a58dbb84d1883d408cc2796313b8a682b7e96aeeee1b3cbf9e0ad",
+            "sha512": "a15c24b0626e1a09c98bb855e276c48adac0006a271fd683ad7320eab0585a7c833108ddf71bd39c07c07f6fc64c57ede9efe4d9497e6351129ddcb21f5af669"
+          }
+        },
+        "sourceTarball": {
+          "url": "https://downloads.sourceforge.net/project/nsis/NSIS%202/2.44/nsis-2.44-src.tar.bz2",
+          "filename": "nsis-2.44-src.tar.bz2",
+          "size": 1501445,
+          "hashes": {
+            "sha1": "07db4bcbbba7b66b4e1553c2d6ea42ed8eaab66a",
+            "sha256": "1ad1988962a0d4175fc6a3c62ea5ed4d06341c4bd8528c2ab678b3d11c8d6cf6",
+            "sha512": "6c8a323f4f9e9f311d8bf0f9c2bf14afbcae4fd1e973124670ffffe2922ceee795421c5597e386e7a528a73b56a1fe1e0aa82296f6fad754a802f09adb89ffb1"
+          }
+        }
+      }
+    },
+    "2.45": {
+      "version": "2.45",
+      "major": 2,
+      "channel": "stable",
+      "preRelease": null,
+      "releasedAt": "2009-06-06",
+      "artifacts": {
+        "zip": {
+          "url": "https://downloads.sourceforge.net/project/nsis/NSIS%202/2.45/nsis-2.45.zip",
+          "filename": "nsis-2.45.zip",
+          "size": 2322151,
+          "hashes": {
+            "sha1": "d956939a4aa0cc78c72a93f236b121c40e0c4bc9",
+            "sha256": "f162587e473c0571ad638726c0e8852205c92341ceceda8fa54dff07b5504d20",
+            "sha512": "5c1ba8bf363b6e8cc71bf65fa0c63547f0f9993f6062ec52f33ee21948f6edd6688940f531f844ae41ef40908a8c0a324326d8e93766b6fd64d223d339a510e9"
+          }
+        },
+        "sourceTarball": {
+          "url": "https://downloads.sourceforge.net/project/nsis/NSIS%202/2.45/nsis-2.45-src.tar.bz2",
+          "filename": "nsis-2.45-src.tar.bz2",
+          "size": 1502316,
+          "hashes": {
+            "sha1": "ce02adf68dbedc798615ffb212d27a9b03d5defb",
+            "sha256": "e46c7fdce27df79d1a20eab56b68e293aa5f45f9329c43014a39ceac226fc8cd",
+            "sha512": "24276ec6faf3b548f96c912dfd3f58274a956f7f7d7c263bc2ae5ecb8414a4d29ce22fcece39fada99b04b5b4c49f22a9c89041ea6ba51edde1488d72c1f3b51"
+          }
+        }
+      }
+    },
+    "2.46": {
+      "version": "2.46",
+      "major": 2,
+      "channel": "stable",
+      "preRelease": null,
+      "releasedAt": "2009-12-05",
+      "artifacts": {
+        "zip": {
+          "url": "https://downloads.sourceforge.net/project/nsis/NSIS%202/2.46/nsis-2.46.zip",
+          "filename": "nsis-2.46.zip",
+          "size": 2323164,
+          "hashes": {
+            "sha1": "adeff823a1f8af3c19783700a6b8d9054cf0f3c2",
+            "sha256": "ced6561f8aed81c8f3d6bc5a33684e03ca36a618110c0a849880c703337f26cc",
+            "sha512": "8f8b2abd03fab4c60c803209887d935f42cb379712544b55512c9b43c65073970eaa58ae7b23b2da5ddbddf31cd2843387646c51a922856d098817ada0e8a0a8"
+          }
+        },
+        "sourceTarball": {
+          "url": "https://downloads.sourceforge.net/project/nsis/NSIS%202/2.46/nsis-2.46-src.tar.bz2",
+          "filename": "nsis-2.46-src.tar.bz2",
+          "size": 1499014,
+          "hashes": {
+            "sha1": "2cc9bff130031a0b1d76b01ec0a9136cdf5992ce",
+            "sha256": "f5f9e5e22505e44b25aea14fe17871c1ed324c1f3cc7a753ef591f76c9e8a1ae",
+            "sha512": "8716cf6dc086d8b9eb3c707b3a65790bf2e2b41116243d86243514ec6b2db7c508dedef027863bbd6650b21ca5f94ef7dd6706fe14ddc151c4548ecb15858ee6"
+          }
+        }
+      }
+    },
+    "2.47": {
+      "version": "2.47",
+      "major": 2,
+      "channel": "stable",
+      "preRelease": null,
+      "releasedAt": "2015-12-09",
+      "artifacts": {
+        "zip": {
+          "url": "https://downloads.sourceforge.net/project/nsis/NSIS%202/2.47/nsis-2.47.zip",
+          "filename": "nsis-2.47.zip",
+          "size": 2151917,
+          "hashes": {
+            "sha1": "80869a37c147ae393383d425b07c645986b6f021",
+            "sha256": "8e758bee375e105b67f25b232a3c36be1d724ec39a467abd6255eb45584bb9cf",
+            "sha512": "573cad10cf8f3fee4ba00bae09ae63578d816a1d93a7e25a8a4d8d096b5e9bd125ff0848703ea841e317e942fefb4dc33fce52e1c3783894e7116d8001f41b07"
+          }
+        },
+        "sourceTarball": {
+          "url": "https://downloads.sourceforge.net/project/nsis/NSIS%202/2.47/nsis-2.47-src.tar.bz2",
+          "filename": "nsis-2.47-src.tar.bz2",
+          "size": 1536916,
+          "hashes": {
+            "sha1": "d8e30492ed35164afdf35434ce7dc5528d395a55",
+            "sha256": "e022c63b2c648531854f533b8cc13cdf15c2780017c931255cc92d9f84e87ee9",
+            "sha512": "2aa43ab9f918be9370db033b8f6468948694f0f610367ff4b5576bd409881a9247be2964feb91254b5aeb5e7bb5e84ecb82d2fe20ad15bbfb8a5a411d283c7db"
+          }
+        }
+      }
+    },
+    "2.48": {
+      "version": "2.48",
+      "major": 2,
+      "channel": "stable",
+      "preRelease": null,
+      "releasedAt": "2015-12-11",
+      "artifacts": {
+        "zip": {
+          "url": "https://downloads.sourceforge.net/project/nsis/NSIS%202/2.48/nsis-2.48.zip",
+          "filename": "nsis-2.48.zip",
+          "size": 2335321,
+          "hashes": {
+            "sha1": "a91c8fec758611fd55c35a82b37c84d7de4adbba",
+            "sha256": "b674ad6af2322d574af84ee43cf5ff6cf25d94b0de21fbed59043b7d8478b0ac",
+            "sha512": "0c34754b7163599ce738ff0d8779627929ff1c6dbfb9f4b2acd4bf20c5a29da30b5419cccfdbaa6e98612334155db8ccd3624879855b5aca89c6ca6c6e09cb87"
+          }
+        },
+        "sourceTarball": {
+          "url": "https://downloads.sourceforge.net/project/nsis/NSIS%202/2.48/nsis-2.48-src.tar.bz2",
+          "filename": "nsis-2.48-src.tar.bz2",
+          "size": 1538276,
+          "hashes": {
+            "sha1": "0ffa8f70163d76a11706ba3fe3050ec7729a30ec",
+            "sha256": "0d323bd2e1652d0b02bac975602f04bee2babc536c9c93fc52c43f3018c51ea3",
+            "sha512": "1dbe0e00ad0c0efd62c1d1dbdd4ac309ac972c1c6aeb204e09aa745f8bdcd65d935473d970f32f0224ba5548bd78bfb6bc0f1691fb302d9b1dfc0a3b1a765f73"
+          }
+        }
+      }
+    },
+    "2.49": {
+      "version": "2.49",
+      "major": 2,
+      "channel": "stable",
+      "preRelease": null,
+      "releasedAt": "2015-12-16",
+      "artifacts": {
+        "zip": {
+          "url": "https://downloads.sourceforge.net/project/nsis/NSIS%202/2.49/nsis-2.49.zip",
+          "filename": "nsis-2.49.zip",
+          "size": 2335524,
+          "hashes": {
+            "sha1": "d4ee9385c299c1412a3282e72627cc7fc7c0d2c4",
+            "sha256": "b7416935d0db6c27b9dfe33e5110456569bbf65ca33cc105fb46ad36226c2eb9",
+            "sha512": "f7aa1515e9673705d4681772faac580703242664b11a515812434848a62b1fa4ef0ebf6d7bdcb36d3206ba6dd834ed16eb5670bfbaac70e5c7193fdb444edb01"
+          }
+        },
+        "sourceTarball": {
+          "url": "https://downloads.sourceforge.net/project/nsis/NSIS%202/2.49/nsis-2.49-src.tar.bz2",
+          "filename": "nsis-2.49-src.tar.bz2",
+          "size": 1538715,
+          "hashes": {
+            "sha1": "11f43e1f8a2be04eceb44eaf81bb7d79cc5c6a13",
+            "sha256": "b9777b376e4fc7aae05e89aa6c52a1137fe443952931e15cf0382b3a5d198512",
+            "sha512": "a7a5bad66f51a74c351185050df06cc85b603ac71c9380103118413212950e1d26e5473e94ce9aeb8ea84002f1aae6c3dd825978665e1ed80f4bf6cc0180ba8b"
+          }
+        }
+      }
+    },
+    "2.50": {
+      "version": "2.50",
+      "major": 2,
+      "channel": "stable",
+      "preRelease": null,
+      "releasedAt": "2015-12-27",
+      "artifacts": {
+        "zip": {
+          "url": "https://downloads.sourceforge.net/project/nsis/NSIS%202/2.50/nsis-2.50.zip",
+          "filename": "nsis-2.50.zip",
+          "size": 2335814,
+          "hashes": {
+            "sha1": "4dc6514818417ebe67d84fac22fd175b559049f2",
+            "sha256": "36bebcd12ad8ec6b94920b46c4c5a7a9fccdaa5e9aececb9e89aecfdfa35e472",
+            "sha512": "3a43e21b697117f56dc51c738434756271b979ff145a3205de552bcbc6333d0ef829b1af63574f28b7983e41bdd0d28f579a25767e257ba3f2096fca6b16955b"
+          }
+        },
+        "sourceTarball": {
+          "url": "https://downloads.sourceforge.net/project/nsis/NSIS%202/2.50/nsis-2.50-src.tar.bz2",
+          "filename": "nsis-2.50-src.tar.bz2",
+          "size": 1538749,
+          "hashes": {
+            "sha1": "3748b81b83fb3d717da0db4178c228ac6e2a0543",
+            "sha256": "3fb674cb75e0237ef6b7c9e8a8e8ce89504087a6932c5d2e26764d4220a89848",
+            "sha512": "6c538ce8439a0ca1b8f1a84fa076d52472baa79d5f229983ccc16824fdbfa2ea8f40024fa4d6754070783a5a320169b012673e9e954f52ef7e9acbec606b6478"
+          }
+        }
+      }
+    },
+    "2.51": {
+      "version": "2.51",
+      "major": 2,
+      "channel": "stable",
+      "preRelease": null,
+      "releasedAt": "2016-04-02",
+      "artifacts": {
+        "zip": {
+          "url": "https://downloads.sourceforge.net/project/nsis/NSIS%202/2.51/nsis-2.51.zip",
+          "filename": "nsis-2.51.zip",
+          "size": 2337616,
+          "hashes": {
+            "sha1": "8366044a9e78878e48eeaaae6c2e203d99321cf5",
+            "sha256": "43065a52a586166174c87294ae322baef898af8b782019e8a7ffd625f64f8e35",
+            "sha512": "2e8b3db789fa11c50424bce6b61e1bf8224b05bb2f65c49b0682583796e6cef0ddf3ab7884c0c161c886e24bd29e7f18c59089665a7e42898f2afdf401fe4ea1"
+          }
+        },
+        "sourceTarball": {
+          "url": "https://downloads.sourceforge.net/project/nsis/NSIS%202/2.51/nsis-2.51-src.tar.bz2",
+          "filename": "nsis-2.51-src.tar.bz2",
+          "size": 1540555,
+          "hashes": {
+            "sha1": "b27ad336a6110285c8ff211fa7594892e1f1bbcc",
+            "sha256": "43d4c9209847e35eb6e2c7cd5a7586e1445374c056c2c7899e40a080e17a1be7",
+            "sha512": "3019040d84b1afdf398327bbd55cc2ae66336deea200b6506f1d474359056713fbcf51e8a06f32fece81313da35376cd3916341f2cabfa12cefa92f91ecf6f08"
+          }
+        }
+      }
+    },
+    "3.0a0": {
+      "version": "3.0a0",
+      "major": 3,
+      "channel": "prerelease",
+      "preRelease": "a0",
+      "releasedAt": "2013-05-20",
+      "artifacts": {
+        "zip": {
+          "url": "https://downloads.sourceforge.net/project/nsis/NSIS%203%20Pre-release/3.0a0/nsis-3.0a0.zip",
+          "filename": "nsis-3.0a0.zip",
+          "size": 2687001,
+          "hashes": {
+            "sha1": "d7a607851a9bf6581ec8d95d6663036c7ad76b63",
+            "sha256": "c560f3ae1f347f72cdfd23f623d3ee02cfb05254698e7ae76b45d2ec0066f468",
+            "sha512": "c8608f8e3c97c63f4f5d6fb027fe475c5f891246d5806bf0c26c494268ba105f4ba8193ffd2f37b2635f8e426428680eb78ebb5c937bdae31da0c5d0308b5474"
+          }
+        },
+        "sourceTarball": {
+          "url": "https://downloads.sourceforge.net/project/nsis/NSIS%203%20Pre-release/3.0a0/nsis-3.0a0-src.tar.bz2",
+          "filename": "nsis-3.0a0-src.tar.bz2",
+          "size": 1558487,
+          "hashes": {
+            "sha1": "7c92529a41d119e73e523d37bbe60ceede3cb061",
+            "sha256": "be23f4c5d8377390c074675d22116ea019b5f605dc557523da6e8bfb177514dc",
+            "sha512": "43ca13291fa6a0f16b9db2d094511cb29a10323e4d19a27808d6cc416e37ffe235ce2a320032e9f2c5fe94333ac9fcbf40a754c3f890b00dfc44e2dc7473316d"
+          }
+        }
+      }
+    },
+    "3.0a1": {
+      "version": "3.0a1",
+      "major": 3,
+      "channel": "prerelease",
+      "preRelease": "a1",
+      "releasedAt": "2013-07-14",
+      "artifacts": {
+        "zip": {
+          "url": "https://downloads.sourceforge.net/project/nsis/NSIS%203%20Pre-release/3.0a1/nsis-3.0a1.zip",
+          "filename": "nsis-3.0a1.zip",
+          "size": 2672796,
+          "hashes": {
+            "sha1": "8d2927dc26de76ee04982786dcc2509187b498c2",
+            "sha256": "66210d0e029dec5140083831bbd149e79d625313fe4918b88072a1a38b32397d",
+            "sha512": "bf89f42981780fe167e82235ae0f9820992d20930f08ca4a24b21332ac3b8e22b21fc75476e16a84f7aeab0083f84c8042ba7aa91d54d66886bf8b33f84275ba"
+          }
+        },
+        "sourceTarball": {
+          "url": "https://downloads.sourceforge.net/project/nsis/NSIS%203%20Pre-release/3.0a1/nsis-3.0a1-src.tar.bz2",
+          "filename": "nsis-3.0a1-src.tar.bz2",
+          "size": 1560218,
+          "hashes": {
+            "sha1": "c0aa70dd3665c5c19928e7b1c4c2141747d31b0d",
+            "sha256": "f8aa07470bbf46dbbaf8bd1d9ed82ff7e03128349d36c34eabf14f0e25651f67",
+            "sha512": "c13fa5c3fd5fa17488920bfff59a3638a331706c6773d6c827d2e5a714efefe89a99cf979a03d37581a10c3cea83f32681a899f8a02e0db855b5fa4651c7238c"
+          }
+        }
+      }
+    },
+    "3.0a2": {
+      "version": "3.0a2",
+      "major": 3,
+      "channel": "prerelease",
+      "preRelease": "a2",
+      "releasedAt": "2013-12-25",
+      "artifacts": {
+        "zip": {
+          "url": "https://downloads.sourceforge.net/project/nsis/NSIS%203%20Pre-release/3.0a2/nsis-3.0a2.zip",
+          "filename": "nsis-3.0a2.zip",
+          "size": 2418388,
+          "hashes": {
+            "sha1": "6174085848a16b85106e0b488383ffa66a19cb25",
+            "sha256": "7e7e45d4ac3cd16eae92d86432bf68edec4034aa38fbaddef283a1609796453b",
+            "sha512": "15236c5ec44b16019e9465b688019577db505cbbdecf1af4e02ff0717ae6ec3a80a490766c02e5d6c01302c6c43a5bbfbd1dafabaf47417d4d4f83b0f10273ef"
+          }
+        },
+        "sourceTarball": {
+          "url": "https://downloads.sourceforge.net/project/nsis/NSIS%203%20Pre-release/3.0a2/nsis-3.0a2-src.tar.bz2",
+          "filename": "nsis-3.0a2-src.tar.bz2",
+          "size": 1567334,
+          "hashes": {
+            "sha1": "aef6e434606da2b47bafba5a36bb1f985148c919",
+            "sha256": "b5ad4c7afcc55b38a0e8efbe1e1cbff3021e6366f3300fef63ffb0683cb0c082",
+            "sha512": "d0ccd2a9201d3a774548b1169ff10ab49963db32b175c58e54b7e5624c20a16785e6e6e5216272f6178b4d0718d914cd93b336a79fe531a320653ce1fab35606"
+          }
+        }
+      }
+    },
+    "3.0b0": {
+      "version": "3.0b0",
+      "major": 3,
+      "channel": "prerelease",
+      "preRelease": "b0",
+      "releasedAt": "2014-05-11",
+      "artifacts": {
+        "zip": {
+          "url": "https://downloads.sourceforge.net/project/nsis/NSIS%203%20Pre-release/3.0b0/nsis-3.0b0.zip",
+          "filename": "nsis-3.0b0.zip",
+          "size": 2423065,
+          "hashes": {
+            "sha1": "fb72f88573f527ff83ba7142be53da194a9c7526",
+            "sha256": "7dcba965d0599c5bd737255e84d5c17e46caf1ca3aea0b65211a622ba8e88c7b",
+            "sha512": "e1613dcab545b2579d7aa8b03ec6bbf4d562771f3026d8738ac6a66796829b747a588b1ed8cc911f4f16fa2f924f5c49c88c1cd67044b3ee905c47ed53057392"
+          }
+        },
+        "sourceTarball": {
+          "url": "https://downloads.sourceforge.net/project/nsis/NSIS%203%20Pre-release/3.0b0/nsis-3.0b0-src.tar.bz2",
+          "filename": "nsis-3.0b0-src.tar.bz2",
+          "size": 1575642,
+          "hashes": {
+            "sha1": "8ec197c1e4600bf195728ce8990dc68a287c6cf6",
+            "sha256": "24a3b1f89aecbdf14bac9123ccb26c19ab7cd1aabc41173d42b7a43afb5c8951",
+            "sha512": "d420936e083bff8f4a2c6ca510668bea81a61867602ac7083bdeb0e2b36fd680d8111bc929ee76981eb91b46415187a2a3c118e89d30542f2fa65bf2b52e5050"
+          }
+        }
+      }
+    },
+    "3.0b1": {
+      "version": "3.0b1",
+      "major": 3,
+      "channel": "prerelease",
+      "preRelease": "b1",
+      "releasedAt": "2014-10-07",
+      "artifacts": {
+        "zip": {
+          "url": "https://downloads.sourceforge.net/project/nsis/NSIS%203%20Pre-release/3.0b1/nsis-3.0b1.zip",
+          "filename": "nsis-3.0b1.zip",
+          "size": 2434778,
+          "hashes": {
+            "sha1": "e796d7d2cc12ac1f26eb17c6db4967f3170ab160",
+            "sha256": "a7dffb3c1c52dc5e0ed3806097379772d32982fa377e70838619806d8a4db716",
+            "sha512": "24c5a5775fb24da110c130b76daa6069f29c69545505d084a615227c042af825aed8b443c3c65519a9053eb45c035c082418dd7257a55021f5459e8913aef4ab"
+          }
+        },
+        "sourceTarball": {
+          "url": "https://downloads.sourceforge.net/project/nsis/NSIS%203%20Pre-release/3.0b1/nsis-3.0b1-src.tar.bz2",
+          "filename": "nsis-3.0b1-src.tar.bz2",
+          "size": 1590389,
+          "hashes": {
+            "sha1": "84cc08f56adef72a496c5f01d84481f9cf790608",
+            "sha256": "7c187cb869d0c2554f1bcff9e9bfef0a55fc6f5d5001b068382d5103d44ebbe0",
+            "sha512": "dbd8a0b0dae460f2d2a48f9c2219af6285b462f55659d7c9174bf55a509bc4502e5fc929c35ae903537a5e602c83a6be03a9d8352879718114d1eece80823c05"
+          }
+        }
+      }
+    },
+    "3.0b2": {
+      "version": "3.0b2",
+      "major": 3,
+      "channel": "prerelease",
+      "preRelease": "b2",
+      "releasedAt": "2015-08-05",
+      "artifacts": {
+        "zip": {
+          "url": "https://downloads.sourceforge.net/project/nsis/NSIS%203%20Pre-release/3.0b2/nsis-3.0b2.zip",
+          "filename": "nsis-3.0b2.zip",
+          "size": 2437121,
+          "hashes": {
+            "sha1": "1ddd8d1b52a50d0a2754d4636c342fca3d97e050",
+            "sha256": "f485369d0565d57b11c46d5493566a88523b582a3930dbed945c9d548c1828a6",
+            "sha512": "57ac39812f523e8d3e9cf237eba8ccb25057c63d7c53d5bcf5fba0586a1327b2d68efaae9a34b00bc5b9d78facf29671bcb9299ae229dda9d888ed5ee5fdaa61"
+          }
+        },
+        "sourceTarball": {
+          "url": "https://downloads.sourceforge.net/project/nsis/NSIS%203%20Pre-release/3.0b2/nsis-3.0b2-src.tar.bz2",
+          "filename": "nsis-3.0b2-src.tar.bz2",
+          "size": 1595818,
+          "hashes": {
+            "sha1": "6ea1fda2174b50fe8252a48ddbbf1a0cfebabe1a",
+            "sha256": "c0831be3183f7b266294f4db343ac8467fb06c1bddc4881c764bdc6619c8d123",
+            "sha512": "d19b50021c4a415cea371f185013d3ceee3a5211599eae35df8c28f710546c73ce8bab07ec802fa88fcba7008ee93ce180befde40922a4478e79f90c37ad3bd6"
+          }
+        }
+      }
+    },
+    "3.0b3": {
+      "version": "3.0b3",
+      "major": 3,
+      "channel": "prerelease",
+      "preRelease": "b3",
+      "releasedAt": "2015-12-27",
+      "artifacts": {
+        "zip": {
+          "url": "https://downloads.sourceforge.net/project/nsis/NSIS%203%20Pre-release/3.0b3/nsis-3.0b3.zip",
+          "filename": "nsis-3.0b3.zip",
+          "size": 2515683,
+          "hashes": {
+            "sha1": "5db37fb057e9f8af2e8f143672cd4c86842aee82",
+            "sha256": "8eee1f0f31c5f776cb2aa34197f906220c9ed43918424eb5bced3ca773e58b10",
+            "sha512": "2d4a614e203e8b498ac4508f7f7da5215c78d03b6df474913e2c41e595a8872628eeaf135096fca4cb399cda8dea4e51f8b29a5bd264878f8bae694932ffeeea"
+          }
+        },
+        "sourceTarball": {
+          "url": "https://downloads.sourceforge.net/project/nsis/NSIS%203%20Pre-release/3.0b3/nsis-3.0b3-src.tar.bz2",
+          "filename": "nsis-3.0b3-src.tar.bz2",
+          "size": 1639854,
+          "hashes": {
+            "sha1": "601b60c93e5492260b67d2e368b7c6f8050a616b",
+            "sha256": "faf22d6cd4bd46780afcf22524a1de39bcc38c85773719ec7a1ecf002e308d3a",
+            "sha512": "282d68a2c259389da3507a80732df07eae156b5ee62089fb468c51e6427dc0ab06776aa0960e0dcdffa517f0621cb79f5187d04b1b9e284ca25c35aa75bd38a3"
+          }
+        }
+      }
+    },
+    "3.0rc1": {
+      "version": "3.0rc1",
+      "major": 3,
+      "channel": "prerelease",
+      "preRelease": "rc1",
+      "releasedAt": "2016-04-03",
+      "artifacts": {
+        "zip": {
+          "url": "https://downloads.sourceforge.net/project/nsis/NSIS%203%20Pre-release/3.0rc1/nsis-3.0rc1.zip",
+          "filename": "nsis-3.0rc1.zip",
+          "size": 2518247,
+          "hashes": {
+            "sha1": "c3ef1623d20cd8c8c65fdbfb86fbd03faa6f0345",
+            "sha256": "d9ae82c7ace44dd265f1081861287a5565c742448e0460386b165b54c6465694",
+            "sha512": "6925cc5efa61537060b6564d3b90867e76b94ac48d632161200c2c4323fc2f6bbb2bcbd82df943f0161435aeca52ed433b23dd5c3bc0d8660dc613b69d6346bc"
+          }
+        },
+        "sourceTarball": {
+          "url": "https://downloads.sourceforge.net/project/nsis/NSIS%203%20Pre-release/3.0rc1/nsis-3.0rc1-src.tar.bz2",
+          "filename": "nsis-3.0rc1-src.tar.bz2",
+          "size": 1648952,
+          "hashes": {
+            "sha1": "2022ed3036721824b249a0acea9cbc87dae1ddd5",
+            "sha256": "4e2a98c96f470386f41dcc7fd3163935228f8833d6accd0884aa0f4cb960b232",
+            "sha512": "05d44d66ebfc3f73eb08a583d766912e7e472f780e2d601741fd8fececf57ee14ee0f3c9f92433a1ba47e2862f56f7ee3a0bb35e3fec8bc1f0d006975a60fdb0"
+          }
+        }
+      }
+    },
+    "3.0rc2": {
+      "version": "3.0rc2",
+      "major": 3,
+      "channel": "prerelease",
+      "preRelease": "rc2",
+      "releasedAt": "2016-07-09",
+      "artifacts": {
+        "zip": {
+          "url": "https://downloads.sourceforge.net/project/nsis/NSIS%203%20Pre-release/3.0rc2/nsis-3.0rc2.zip",
+          "filename": "nsis-3.0rc2.zip",
+          "size": 2553716,
+          "hashes": {
+            "sha1": "0aeb4e101ce9d852de1fe4272ce53367e637bd24",
+            "sha256": "f6792547b2d0e3b6638766dcefcd362673239e5d09627d7e80e8cd6275109712",
+            "sha512": "0b6642689a92d197bd585978dabd353f6c3e10ed445ff8c0e2988f0543aaec8b34ab5362983f74e38264d6cc08623568a46ba009af3e137c064d10f392d54b1b"
+          }
+        },
+        "sourceTarball": {
+          "url": "https://downloads.sourceforge.net/project/nsis/NSIS%203%20Pre-release/3.0rc2/nsis-3.0rc2-src.tar.bz2",
+          "filename": "nsis-3.0rc2-src.tar.bz2",
+          "size": 1689409,
+          "hashes": {
+            "sha1": "072d0f5c63b8836057ea38f2d6e3d6f3ef614173",
+            "sha256": "259a5a80fa18ec73e1264b528a10666be07be6e02d8c86af7702ec0d7ae7dd30",
+            "sha512": "7900ea43c55b50ae8a2a40b791fe06ef5bbe31539462f1959382c3246d4beaefc579e79179197965d752e266e70ff23b743d725416aa59232e9889e3edef609c"
+          }
+        }
+      }
+    },
+    "3.0": {
+      "version": "3.0",
+      "major": 3,
+      "channel": "stable",
+      "preRelease": null,
+      "releasedAt": "2016-07-25",
+      "artifacts": {
+        "zip": {
+          "url": "https://downloads.sourceforge.net/project/nsis/NSIS%203/3.0/nsis-3.0.zip",
+          "filename": "nsis-3.0.zip",
+          "size": 2551761,
+          "hashes": {
+            "sha1": "58817baa6509ad239f6cdff90ac013689aff1902",
+            "sha256": "87b1d36765bb2f6e0fe531fdd8c9282b28e86b88d1f6b61842777bb791955372",
+            "sha512": "9618347df41c6dd314addcd6d018859f399d3da765fe3d2a28a4c67af5f639d200393a2ef20e138f507998a777b82e05065006fe6cc98467bc800f8ebb763dcb"
+          }
+        },
+        "sourceTarball": {
+          "url": "https://downloads.sourceforge.net/project/nsis/NSIS%203/3.0/nsis-3.0-src.tar.bz2",
+          "filename": "nsis-3.0-src.tar.bz2",
+          "size": 1689329,
+          "hashes": {
+            "sha1": "6b86d6765a1bac9261d9da5361c5fa7b9a7c4ae9",
+            "sha256": "53a1e8ef109acd828ec909f3e6203f69d917f1a5b8bff27e93e66d0bddc5637e",
+            "sha512": "1b9a09850533bcd9ce6e17e88fd77f052fe5fbca6aca5ac0c321e1d79188aab4872c63af9a754e84888c68c9ac9d2bc868880354b632a6abc059d2b6180fb8dc"
+          }
+        }
+      }
+    },
+    "3.01": {
+      "version": "3.01",
+      "major": 3,
+      "channel": "stable",
+      "preRelease": null,
+      "releasedAt": "2016-12-11",
+      "artifacts": {
+        "zip": {
+          "url": "https://downloads.sourceforge.net/project/nsis/NSIS%203/3.01/nsis-3.01.zip",
+          "filename": "nsis-3.01.zip",
+          "size": 2505205,
+          "hashes": {
+            "sha1": "b5d4b48bdd43e16352047372e5a0b13599bb9340",
+            "sha256": "daa17556c8690a34fb13af25c87ced89c79a36a935bf6126253a9d9a5226367c",
+            "sha512": "beb58d6523397a070247c73b82cadfd7a969b53c98e2ee83dd2729199aed70fdafb7c305ad40f18dd98bc86cf5c0286d769f701f8eaa9e375d64992e25885c68"
+          }
+        },
+        "sourceTarball": {
+          "url": "https://downloads.sourceforge.net/project/nsis/NSIS%203/3.01/nsis-3.01-src.tar.bz2",
+          "filename": "nsis-3.01-src.tar.bz2",
+          "size": 1649428,
+          "hashes": {
+            "sha1": "2d5505eaa209659a529fe30ad30b6302f80086c4",
+            "sha256": "604c011593be484e65b2141c50a018f1b28ab28c994268e4ecd377773f3ffba1",
+            "sha512": "559703cc25f78697be1784a38d1d9a19c97d27a200dc9257d1483c028c6be9242cbcd10391ba618f88561c2ba57fdbd8b3607bea47ed8c3ad7509a6ae4075138"
+          }
+        }
+      }
+    },
+    "3.02": {
+      "version": "3.02",
+      "major": 3,
+      "channel": "stable",
+      "preRelease": null,
+      "releasedAt": "2017-07-24",
+      "artifacts": {
+        "zip": {
+          "url": "https://downloads.sourceforge.net/project/nsis/NSIS%203/3.02/nsis-3.02.zip",
+          "filename": "nsis-3.02.zip",
+          "size": 2516000,
+          "hashes": {
+            "sha1": "ab8af081e394f704a2b574ea902f685779b8edb4",
+            "sha256": "b63bf7cb1e2522754ccb5628e54277f553bc6810d6229d0fe7eb1d78b3457206",
+            "sha512": "94c3ad38032eacda7a9f4b1388a96ea47825b0504601641b41276a80a9e6520c8d19d10ac8db3492754acf0f6f584a2a8181d3d6bc4e14fffe1e5d08fef14f05"
+          }
+        },
+        "sourceTarball": {
+          "url": "https://downloads.sourceforge.net/project/nsis/NSIS%203/3.02/nsis-3.02-src.tar.bz2",
+          "filename": "nsis-3.02-src.tar.bz2",
+          "size": 1664891,
+          "hashes": {
+            "sha1": "2c81a29292ec6b6e91cefc0dba230cea0e8cc679",
+            "sha256": "c44ad18462c56ada4b4303513997076b960f7a991993c5c43ae0edb4936dd83d",
+            "sha512": "7351389914eb3042bb6f0fde0241e26853713ae95ff86e4ce0fda5fd531a851686adf9abe3004c1956ae8dadabe3b052a7e1ca16c294a6b542b443b3c665b5dd"
+          }
+        }
+      }
+    },
+    "3.02.1": {
+      "version": "3.02.1",
+      "major": 3,
+      "channel": "stable",
+      "preRelease": null,
+      "releasedAt": "2017-08-01",
+      "artifacts": {
+        "zip": {
+          "url": "https://downloads.sourceforge.net/project/nsis/NSIS%203/3.02.1/nsis-3.02.1.zip",
+          "filename": "nsis-3.02.1.zip",
+          "size": 2518590,
+          "hashes": {
+            "sha1": "06c791f9cf668d945564316c9c947ebb4cc469e9",
+            "sha256": "deef3e3d90ab1a9e0ef294fff85eead25edbcb429344ad42fc9bc42b5c3b1fb5",
+            "sha512": "2acbe490602dab0e83259d02e1a90c7c3a7c7f1203b9cc065d29e53ab019b496bff4c178c6e33235235c866ca5f5201ae8ba0c02a4314dd04ec07edcf5c0e1c5"
+          }
+        },
+        "sourceTarball": {
+          "url": "https://downloads.sourceforge.net/project/nsis/NSIS%203/3.02.1/nsis-3.02.1-src.tar.bz2",
+          "filename": "nsis-3.02.1-src.tar.bz2",
+          "size": 1664081,
+          "hashes": {
+            "sha1": "90e2b36f0a74820a7185c500dddc5fed7d745879",
+            "sha256": "5f6d135362c70f6305317b3af6d8398184ac1a22d3f23b9c4164543c13fb8d60",
+            "sha512": "68fd4e347404ea3f4eca5cfb4915f720c0c242df19ccf55d2dae6c7b9c63698bf08ed63996081718530128de4fe983c6845901689d66dec9538d1f201e285d01"
+          }
+        }
+      }
+    },
+    "3.03": {
+      "version": "3.03",
+      "major": 3,
+      "channel": "stable",
+      "preRelease": null,
+      "releasedAt": "2018-01-30",
+      "artifacts": {
+        "zip": {
+          "url": "https://downloads.sourceforge.net/project/nsis/NSIS%203/3.03/nsis-3.03.zip",
+          "filename": "nsis-3.03.zip",
+          "size": 2533626,
+          "hashes": {
+            "sha1": "ea69aa8d538916c9e8630dfd0106b063f7bb5d46",
+            "sha256": "b53a79078f2c6abf21f11d9fe68807f35b228393eb17a0cd3873614190116ba7",
+            "sha512": "5e3054b32b987ad2e19ba795ea331458ad94a860e72d9bdc185e35c82777c2945a50f5e4c266aa0627dc4678d0a31be2767713a2e2da7fb9e2e59d1675dc0e38"
+          }
+        },
+        "sourceTarball": {
+          "url": "https://downloads.sourceforge.net/project/nsis/NSIS%203/3.03/nsis-3.03-src.tar.bz2",
+          "filename": "nsis-3.03-src.tar.bz2",
+          "size": 1686623,
+          "hashes": {
+            "sha1": "101a9dd2dc06e8239d30741e0d723b633e091a2f",
+            "sha256": "abae7f4488bc6de7a4dd760d5f0e7cd3aad7747d4d7cd85786697c8991695eaa",
+            "sha512": "0eecb4505da1ed44118669eb2e12069ade7f32e2fe6c70831aefbd061a3ba57ed3ca5aa4efb571a2581ccde0f5c85c04b34dc0e817b7bdba641d8242c09d7c3b"
+          }
+        }
+      }
+    },
+    "3.04": {
+      "version": "3.04",
+      "major": 3,
+      "channel": "stable",
+      "preRelease": null,
+      "releasedAt": "2018-12-15",
+      "artifacts": {
+        "zip": {
+          "url": "https://downloads.sourceforge.net/project/nsis/NSIS%203/3.04/nsis-3.04.zip",
+          "filename": "nsis-3.04.zip",
+          "size": 2246851,
+          "hashes": {
+            "sha1": "ed241f7384f4e59d84b9a62c71d1f6955b6a719a",
+            "sha256": "22f3349fea453a45551745635c13e5efb7849ecbdce709daa2b2fa8e2ac55fc4",
+            "sha512": "5e7d0a8e2e329ed7d4affd2bff3de58e096d6bcadb517b2ee3b56cf6500c355e6e9e7e12f28e92c79fe2b05d26e7666da0df834b48973b4bcc5157e8a3325192"
+          }
+        },
+        "sourceTarball": {
+          "url": "https://downloads.sourceforge.net/project/nsis/NSIS%203/3.04/nsis-3.04-src.tar.bz2",
+          "filename": "nsis-3.04-src.tar.bz2",
+          "size": 1740579,
+          "hashes": {
+            "sha1": "f5e9a27f04de42881eb59d0fa6002bd17fefda6e",
+            "sha256": "609536046c50f35cfd909dd7df2ab38f2e835d0da3c1048aa0d48c59c5a4f4f5",
+            "sha512": "1fa0e4ed99716e36a1feb6efb2261d0bd876077aeae0c7735bd0ac97eaac4413bf49016f1efa4e929e12ffe896007a2f2905704c50abc3a7a4d2bc514ea59e2e"
+          }
+        }
+      }
+    },
+    "3.05": {
+      "version": "3.05",
+      "major": 3,
+      "channel": "stable",
+      "preRelease": null,
+      "releasedAt": "2019-12-16",
+      "artifacts": {
+        "zip": {
+          "url": "https://downloads.sourceforge.net/project/nsis/NSIS%203/3.05/nsis-3.05.zip",
+          "filename": "nsis-3.05.zip",
+          "size": 2307044,
+          "hashes": {
+            "sha1": "68f9c7025110b95c20431bbce28f3bf2d0ddb1ff",
+            "sha256": "3280c579b767a27b9bf53c17696cba550aed439d32fac972fe4469c97b198873",
+            "sha512": "e6e9b8052cb0fc6b8d952c7d7695618e1dff84b07eb12309c25bd73a41eb9368c9f4a8901698dcac4c2fb7b6b5342178692198a1b33fbce01021841f6cb21b90"
+          }
+        },
+        "sourceTarball": {
+          "url": "https://downloads.sourceforge.net/project/nsis/NSIS%203/3.05/nsis-3.05-src.tar.bz2",
+          "filename": "nsis-3.05-src.tar.bz2",
+          "size": 1761491,
+          "hashes": {
+            "sha1": "3778177a88b66c339f0fbba9eb7191ed09b8cce0",
+            "sha256": "b6e1b309ab907086c6797618ab2879cb95387ec144dab36656b0b5fb77e97ce9",
+            "sha512": "e6e100dde78b71f6a797ceb5b56be02ec578ec77a070337e7e9befd6a2cb076376ac66054a38580b262f5e3b7ffe3bdb6ef8311899cf3952bdb814502ab4bd47"
+          }
+        }
+      }
+    },
+    "3.06": {
+      "version": "3.06",
+      "major": 3,
+      "channel": "stable",
+      "preRelease": null,
+      "releasedAt": "2020-07-31",
+      "artifacts": {
+        "zip": {
+          "url": "https://downloads.sourceforge.net/project/nsis/NSIS%203/3.06/nsis-3.06.zip",
+          "filename": "nsis-3.06.zip",
+          "size": 2322752,
+          "hashes": {
+            "sha1": "1806e679ae1f22f9db946bd8fd041bb57db4594e",
+            "sha256": "948bb8e7ff8804d679d4ea06b13f795c1a0196a1b73cb0944559affc45543050",
+            "sha512": "e1ea65388b8774411b7c35102cd09bec65bde83ba7904f1b52d4b0250d422ec8da98d24ca0e55013f76c6257c08291f895df9d398922523547600acbeb98036e"
+          }
+        },
+        "sourceTarball": {
+          "url": "https://downloads.sourceforge.net/project/nsis/NSIS%203/3.06/nsis-3.06-src.tar.bz2",
+          "filename": "nsis-3.06-src.tar.bz2",
+          "size": 1771280,
+          "hashes": {
+            "sha1": "1ce2e24f6a2602fcea178ac7605450025e5a1add",
+            "sha256": "be2711fde3373c05d10e619d586139573c45fe1349d1330564ef799bbd2235cc",
+            "sha512": "6041babd5c5322e3bf644c2bafa3ff36b7d01264220210d3a305ed66ce59a3f4bf37127b92ad908cdf9a29b29ee7f13fc329bc5901d9d99e3c2a9f6d8da32cab"
+          }
+        }
+      }
+    },
+    "3.06.1": {
+      "version": "3.06.1",
+      "major": 3,
+      "channel": "stable",
+      "preRelease": null,
+      "releasedAt": "2020-08-01",
+      "artifacts": {
+        "zip": {
+          "url": "https://downloads.sourceforge.net/project/nsis/NSIS%203/3.06.1/nsis-3.06.1.zip",
+          "filename": "nsis-3.06.1.zip",
+          "size": 2326512,
+          "hashes": {
+            "sha1": "f188416fe435cad991adbdc2e3eedc482a68fa75",
+            "sha256": "d463ad11aa191ab5ae64edb3a439a4a4a7a3e277fcb138254317254f7111fba7",
+            "sha512": "197107feaf4eb98c4b203209e9b5fa8c6a1c361aec06c6259e0b5d5f827eac91c40a70d925f094951e6a7d4166c4d7d1f2dda85be9a1b9172a95947a7529c81b"
+          }
+        },
+        "sourceTarball": {
+          "url": "https://downloads.sourceforge.net/project/nsis/NSIS%203/3.06.1/nsis-3.06.1-src.tar.bz2",
+          "filename": "nsis-3.06.1-src.tar.bz2",
+          "size": 1771333,
+          "hashes": {
+            "sha1": "525d763d08a8c69d5541d5b025adc56907b4c5de",
+            "sha256": "9b5d68bf1874a7b393432410c7e8c376f174d2602179883845d2508152153ff0",
+            "sha512": "d0bdf33d1ff422d1c6723aae5853a1c9da4e69fbc56dc8242238fee54c6ecd9a6e07050a4026085694cfe422f75179bd3c3634014e054f2285b97763ca49f39d"
+          }
+        }
+      }
+    },
+    "3.07": {
+      "version": "3.07",
+      "major": 3,
+      "channel": "stable",
+      "preRelease": null,
+      "releasedAt": "2021-07-24",
+      "artifacts": {
+        "zip": {
+          "url": "https://downloads.sourceforge.net/project/nsis/NSIS%203/3.07/nsis-3.07.zip",
+          "filename": "nsis-3.07.zip",
+          "size": 2335219,
+          "hashes": {
+            "sha1": "a98e64b903c89f3876aec617ec64f3a5bb59486f",
+            "sha256": "04dde28896ae9ab36ea3035ff3a294e78053f00048064f6d22a6f1c02bcb6ec0",
+            "sha512": "901ee770e9ec081389f3d88ad5401cb90e78332979d97084bc5a880cfc810e22234352afaf779484c4d0b0291aafe4451c68faaecf33f8c321f82dfe35e1590e"
+          }
+        },
+        "sourceTarball": {
+          "url": "https://downloads.sourceforge.net/project/nsis/NSIS%203/3.07/nsis-3.07-src.tar.bz2",
+          "filename": "nsis-3.07-src.tar.bz2",
+          "size": 1784292,
+          "hashes": {
+            "sha1": "a1f7d4de499e74413c0c9d186406a00e462093e7",
+            "sha256": "4dfad3388589985b4cd91d20e18e1458aa31e7d139b5b8adf25c3a9c1015efba",
+            "sha512": "6ec7c8132eb6b3e0b5e1d009f00072cae538a6b874d5ba4a74b63f03098c54cf19cb1192262737048758743436088f6a3a01f44120233d564214f31a62286123"
+          }
+        }
+      }
+    },
+    "3.08": {
+      "version": "3.08",
+      "major": 3,
+      "channel": "stable",
+      "preRelease": null,
+      "releasedAt": "2021-09-25",
+      "artifacts": {
+        "zip": {
+          "url": "https://downloads.sourceforge.net/project/nsis/NSIS%203/3.08/nsis-3.08.zip",
+          "filename": "nsis-3.08.zip",
+          "size": 2346723,
+          "hashes": {
+            "sha1": "057e83c7d82462ec394af76c87d06733605543d4",
+            "sha256": "1bb9fc85ee5b220d3869325dbb9d191dfe6537070f641c30fbb275c97051fd0c",
+            "sha512": "e2ea065f5120f14f3098e63cddc3ae57201f6f9428709ffc0c742472497dd3888a678925abb85581e6ebdf9ebff41032bfe52f655a45c0a8de006bbcf3b39d39"
+          }
+        },
+        "sourceTarball": {
+          "url": "https://downloads.sourceforge.net/project/nsis/NSIS%203/3.08/nsis-3.08-src.tar.bz2",
+          "filename": "nsis-3.08-src.tar.bz2",
+          "size": 1805010,
+          "hashes": {
+            "sha1": "784061fd42bf5e838e40e9f4504fd3e696d5d9a1",
+            "sha256": "a85270ad5386182abecb2470e3d7e9bec9fe4efd95210b13551cb386830d1e87",
+            "sha512": "bc3404ec97dbfe826e8a63131d81da23cd2da61ba2d02b3e829e4e8340d416b2ec438f1ddf6df7b81072364f2973b4d895c8e5e8b6cd3d71b276cd650fae8eee"
+          }
+        }
+      }
+    },
+    "3.09": {
+      "version": "3.09",
+      "major": 3,
+      "channel": "stable",
+      "preRelease": null,
+      "releasedAt": "2023-07-02",
+      "artifacts": {
+        "zip": {
+          "url": "https://downloads.sourceforge.net/project/nsis/NSIS%203/3.09/nsis-3.09.zip",
+          "filename": "nsis-3.09.zip",
+          "size": 2354828,
+          "hashes": {
+            "sha1": "586855a743a6e0ade203d8758af303a48ee0716b",
+            "sha256": "f5dc52eef1f3884230520199bac6f36b82d643d86b003ce51bd24b05c6ba7c91",
+            "sha512": "d2c12c572f9e1630a7a6ef43a3f1d384cd7cde9009dcd1aa0ed684f91989b6f345e12595986f63a9f53b7e78eb5905d36e05cf7f14d9da8715b15a074ccb7c29"
+          }
+        },
+        "sourceTarball": {
+          "url": "https://downloads.sourceforge.net/project/nsis/NSIS%203/3.09/nsis-3.09-src.tar.bz2",
+          "filename": "nsis-3.09-src.tar.bz2",
+          "size": 1808806,
+          "hashes": {
+            "sha1": "0d5605d3eb5d68cf8a56f0d694166ae177fced7f",
+            "sha256": "0cd846c6e9c59068020a87bfca556d4c630f2c5d554c1098024425242ddc56e2",
+            "sha512": "1073b2cab49c3417c95fcc61be589b64c4f31eadf55835092e71a96cbc26df47416826da5875f9693d7db8d63818030ddcc58f123b582b6eea98dd082d8566b7"
+          }
+        }
+      }
+    },
+    "3.10": {
+      "version": "3.10",
+      "major": 3,
+      "channel": "stable",
+      "preRelease": null,
+      "releasedAt": "2024-03-30",
+      "artifacts": {
+        "zip": {
+          "url": "https://downloads.sourceforge.net/project/nsis/NSIS%203/3.10/nsis-3.10.zip",
+          "filename": "nsis-3.10.zip",
+          "size": 2358406,
+          "hashes": {
+            "sha1": "22cf776b463c6c845444328341219167abf399dc",
+            "sha256": "fcdce3229717a2a148e7cda0ab5bdb667f39d8fb33ede1da8dabc336bd5ad110",
+            "sha512": "8ea9f43a27f1886e2e8584e7d57b3c77910edc49b3d16adddef3c00234e1e257b3dd46f638a5d73339398a6898b019989a1a678f46cb6169ee59b144b0652aeb"
+          }
+        },
+        "sourceTarball": {
+          "url": "https://downloads.sourceforge.net/project/nsis/NSIS%203/3.10/nsis-3.10-src.tar.bz2",
+          "filename": "nsis-3.10-src.tar.bz2",
+          "size": 1813470,
+          "hashes": {
+            "sha1": "d99f80a197653ad7a623a12f209853d68da1ab84",
+            "sha256": "11b54a6307ab46fef505b2700aaf6f62847c25aa6eebaf2ae0aab2f17f0cb297",
+            "sha512": "aadb5055e028b93515ad102a7e9e328e253331c6ece4adfa87821f37b5ac30f816c15d23dd21a941330d52ef145c311404dfc1b039277c17786cb2cae1ba2327"
+          }
+        }
+      }
+    },
+    "3.11": {
+      "version": "3.11",
+      "major": 3,
+      "channel": "stable",
+      "preRelease": null,
+      "releasedAt": "2025-03-08",
+      "artifacts": {
+        "zip": {
+          "url": "https://downloads.sourceforge.net/project/nsis/NSIS%203/3.11/nsis-3.11.zip",
+          "filename": "nsis-3.11.zip",
+          "size": 2361546,
+          "hashes": {
+            "sha1": "ef7ff767e5cbd9edd22add3a32c9b8f4500bb10d",
+            "sha256": "c7d27f780ddb6cffb4730138cd1591e841f4b7edb155856901cdf5f214394fa1",
+            "sha512": "676d6add13968473ae537dbb268780f07ded67e21baaf4d3dfc1325c2f8d813b2e9a5c6ead4ad7e900dd9b65faaca95ed304945cb30d946b3bff6fbc323da1d6"
+          }
+        },
+        "sourceTarball": {
+          "url": "https://downloads.sourceforge.net/project/nsis/NSIS%203/3.11/nsis-3.11-src.tar.bz2",
+          "filename": "nsis-3.11-src.tar.bz2",
+          "size": 1817928,
+          "hashes": {
+            "sha1": "63ddba57fe46b1e0a4810ece2a7980f069c031b6",
+            "sha256": "19e72062676ebdc67c11dc032ba80b979cdbffd3886c60b04bb442cdd401ff4b",
+            "sha512": "f2b0cbc10e1d03ea58b03be8240fa328129f989d94da9a574c19b25a8e8ee9d01f2e3380f93c44979f0e27a8a210a42a2ea9cf4f21d78bb9c1b2070809671e77"
+          }
+        }
+      }
+    },
+    "3.12": {
+      "version": "3.12",
+      "major": 3,
+      "channel": "stable",
+      "preRelease": null,
+      "releasedAt": "2026-04-19",
+      "artifacts": {
+        "zip": {
+          "url": "https://downloads.sourceforge.net/project/nsis/NSIS%203/3.12/nsis-3.12.zip",
+          "filename": "nsis-3.12.zip",
+          "size": 2362938,
+          "hashes": {
+            "sha1": "364fd795b0cafc1fbff3e966f103a8f8fc8fb7f1",
+            "sha256": "56581f90db321581c5381193d796fffcf2d24b2f8fed2160a6c6a3baa67f2c4f",
+            "sha512": "d339933767b3c3f99a3c0df154688197642486e69a6679f3bf6d004441cfed046c5335d151358fa03d7b4ccfa596849f6eeb2aefbded66a2ab1e264d0a4ea30a"
+          }
+        },
+        "sourceTarball": {
+          "url": "https://downloads.sourceforge.net/project/nsis/NSIS%203/3.12/nsis-3.12-src.tar.bz2",
+          "filename": "nsis-3.12-src.tar.bz2",
+          "size": 1818389,
+          "hashes": {
+            "sha1": "432e99150881c061c7e313eb1aac45763d951572",
+            "sha256": "f3ed7a8e4aa2cf4e8cf47d3b563a02559e0cb4934db2662b2f9661b824e2b186",
+            "sha512": "e32fe4539699aa06d1aa30f36af5042cf7b017c4c1c29bb1a18cc68a229e739eebe9c85124f1de974d087bbddaff7aad72d66c17d913258d1d362609f4a2859b"
+          }
+        }
+      }
+    }
+  },
+  "latest": {
+    "stable": {
+      "v2": "2.51",
+      "v3": "3.12"
+    },
+    "prerelease": {
+      "v2": null,
+      "v3": "3.0rc2"
+    }
+  }
+}

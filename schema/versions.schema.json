@@ -1,0 +1,106 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://nsis-dev.github.io/data/versions.schema.json",
+  "title": "NSIS versions dataset",
+  "description": "Canonical list of NSIS releases with download URLs and hashes for downstream package managers.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["$schema", "generatedAt", "source", "versions", "latest"],
+  "properties": {
+    "$schema": {
+      "type": "string",
+      "format": "uri"
+    },
+    "generatedAt": {
+      "type": "string",
+      "format": "date-time",
+      "description": "Timestamp the dataset was last regenerated."
+    },
+    "source": {
+      "type": "string",
+      "description": "Identifier of the upstream source the data was scraped from."
+    },
+    "versions": {
+      "type": "object",
+      "description": "Map of version string to version entry.",
+      "patternProperties": {
+        "^[0-9]+(\\.[0-9]+)+([a-z]+[0-9]*)?$": { "$ref": "#/definitions/versionEntry" }
+      },
+      "additionalProperties": false
+    },
+    "latest": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["stable", "prerelease"],
+      "properties": {
+        "stable": { "$ref": "#/definitions/latestChannel" },
+        "prerelease": { "$ref": "#/definitions/latestChannel" }
+      }
+    }
+  },
+  "definitions": {
+    "latestChannel": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["v2", "v3"],
+      "properties": {
+        "v2": { "type": ["string", "null"] },
+        "v3": { "type": ["string", "null"] }
+      }
+    },
+    "versionEntry": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["version", "major", "channel", "preRelease", "releasedAt", "artifacts"],
+      "properties": {
+        "version": { "type": "string" },
+        "major": { "type": "integer", "minimum": 1 },
+        "channel": { "type": "string", "enum": ["stable", "prerelease"] },
+        "preRelease": {
+          "type": ["string", "null"],
+          "description": "Pre-release suffix (e.g. 'a0', 'b2', 'rc1') or null for stable releases."
+        },
+        "releasedAt": {
+          "type": ["string", "null"],
+          "format": "date",
+          "description": "Best-effort release date from the upstream source; null when unknown."
+        },
+        "artifacts": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": ["zip", "sourceTarball"],
+          "properties": {
+            "zip": { "$ref": "#/definitions/artifact" },
+            "sourceTarball": {
+              "oneOf": [
+                { "$ref": "#/definitions/artifact" },
+                { "type": "null" }
+              ]
+            }
+          }
+        }
+      }
+    },
+    "artifact": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["url", "filename", "size", "hashes"],
+      "properties": {
+        "url": { "type": "string", "format": "uri" },
+        "filename": { "type": "string" },
+        "size": { "type": "integer", "minimum": 0 },
+        "hashes": { "$ref": "#/definitions/hashes" }
+      }
+    },
+    "hashes": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["sha1", "sha256", "sha512"],
+      "properties": {
+        "sha1": { "type": "string", "pattern": "^[0-9a-f]{40}$" },
+        "sha256": { "type": "string", "pattern": "^[0-9a-f]{64}$" },
+        "sha512": { "type": "string", "pattern": "^[0-9a-f]{128}$" }
+      }
+    }
+  }
+}

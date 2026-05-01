@@ -1,0 +1,44 @@
+name: update
+
+on:
+  schedule:
+    - cron: '0 6 * * *'
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: pnpm/action-setup@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: pnpm
+
+      - run: pnpm install --frozen-lockfile
+
+      - name: Scrape
+        run: pnpm run scrape
+
+      - name: Validate
+        run: pnpm run validate
+
+      - name: Open pull request
+        uses: peter-evans/create-pull-request@v7
+        with:
+          commit-message: 'chore(data): refresh NSIS dataset'
+          title: 'chore(data): refresh NSIS dataset'
+          body: |
+            Automated update from the cron-driven scraper.
+
+            Review the diff in `data/versions.json` for new entries
+            and any backfilled `releasedAt` values.
+          branch: chore/refresh-dataset
+          delete-branch: true
+          add-paths: data/versions.json
