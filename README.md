@@ -10,7 +10,7 @@ Once published, the dataset is available at:
 https://nsis-dev.github.io/release-data/versions.json
 ```
 
-The file conforms to [`schema/versions.schema.json`](./schema/versions.schema.json).
+The file conforms to [`versions.schema.json`](https://nsis-dev.github.io/release-data/versions.schema.json).
 
 ## License
 
