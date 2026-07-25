@@ -14,4 +14,4 @@ The file conforms to [`versions.schema.json`](https://nsis-dev.github.io/release
 
 ## License
 
-ISC
+This work is licensed under the MIT License.
