@@ -1,5 +1,5 @@
 {
-  "$schema": "https://nsis-dev.github.io/data/versions.schema.json",
+  "$schema": "https://nsis-dev.github.io/release-data/versions.schema.json",
   "generatedAt": "2026-04-30T21:10:21.173Z",
   "source": "sourceforge.net/projects/nsis",
   "versions": {
